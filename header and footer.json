@@ -1,0 +1,610 @@
+{
+  "rss": {
+    "channel": {
+      "title": "SMART INDIA",
+      "link": "http://localhost/wordpress",
+      "description": "work smart to achieve your goal",
+      "pubDate": "Thu, 29 Jul 2021 12:58:52 +0000",
+      "language": "en-US",
+      "wxr_version": 1.2,
+      "base_site_url": "http://localhost/wordpress",
+      "base_blog_url": "http://localhost/wordpress",
+      "author": {
+        "author_id": 1,
+        "author_login": {
+          "__cdata": "user"
+        },
+        "author_email": {
+          "__cdata": "ravivignesh292@gmail.com"
+        },
+        "author_display_name": {
+          "__cdata": "user"
+        },
+        "author_first_name": {
+          "__cdata": ""
+        },
+        "author_last_name": {
+          "__cdata": ""
+        }
+      },
+      "generator": "https://wordpress.org/?v=5.8",
+      "image": {
+        "url": "http://localhost/wordpress/wp-content/uploads/2021/06/cropped-ef51bd12701813e058e3bfce7c6a2d42-1-32x32.jpg",
+        "title": "SMART INDIA",
+        "link": "http://localhost/wordpress",
+        "width": 32,
+        "height": 32
+      },
+      "item": [
+        {
+          "title": {
+            "__cdata": "Header"
+          },
+          "link": "http://localhost/wordpress/elementor-hf/elementor-28/",
+          "pubDate": "Thu, 01 Jul 2021 12:53:38 +0000",
+          "creator": {
+            "__cdata": "user"
+          },
+          "guid": "http://localhost/wordpress/?post_type=elementor-hf&#038;p=28",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": "<a data-elementor-open-lightbox=\"\"  class='elementor-clickable' href=\"http://localhost/wordpress\">\n\t\t\t\t\t<img  src=\"http://localhost/wordpress/wp-content/uploads/2021/07/724448_19568785_3566100_aad1f744_image-300x225.jpg\" alt=\"724448_19568785_3566100_aad1f744_image\"/>\n\t\t\t\t\t\t\t</a>\n\t\t\t<a href=\"http://localhost/wordpress/\" role=\"button\">\n\t\t\t\t\t\tHOME\n\t\t\t\t\t</a>\n\t\t\t<a href=\"http://localhost/wordpress/shop/\" role=\"button\">\n\t\t\t\t\t\tPRODUCTS\n\t\t\t\t\t</a>\n\t\t\t<a href=\"http://localhost/wordpress/about-us/\" role=\"button\">\n\t\t\t\t\t\tABOUT  US\n\t\t\t\t\t</a>\n\t\t\t<a href=\"http://localhost/wordpress/contact-2/\" role=\"button\">\n\t\t\t\t\t\tCONTACT\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<a data-elementor-open-lightbox=\"\"  class='elementor-clickable' href=\"http://localhost/wordpress\">\n\t\t\t\t\t<img  src=\"http://localhost/wordpress/wp-content/uploads/2021/07/724448_19568785_3566100_aad1f744_image-300x225.jpg\" alt=\"724448_19568785_3566100_aad1f744_image\"/>\n\t\t\t\t\t\t\t</a>\n\t\t\t\t<nav data-toggle-icon=\"&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;fas fa-align-justify&quot;&gt;&lt;/i&gt;\" data-close-icon=\"&lt;i aria-hidden=&quot;true&quot; tabindex=&quot;0&quot; class=&quot;far fa-window-close&quot;&gt;&lt;/i&gt;\" data-full-width=\"yes\"><ul id=\"menu-1-d1c2f8b\"><li id=\"menu-item-17\"><a href=\"http://localhost/wordpress/\" class = \"hfe-menu-item\">Home</a></li>\n<li id=\"menu-item-27\"><a href=\"http://localhost/wordpress/shop/\" class = \"hfe-menu-item\">Services</a></li>\n<li id=\"menu-item-26\"><a href=\"http://localhost/wordpress/about-us/\" class = \"hfe-menu-item\">About</a>\n<ul>\n\t<li id=\"menu-item-340\"><a href=\"http://localhost/wordpress/contact-2/\" class = \"hfe-sub-menu-item\">Contact</a></li>\n</ul>\n</li>\n</ul></nav>              \n\t\t\t\t<h3>\n\t\t\t\t\t9791298989\n\t\t\t\t</h3>\n\t\t\t\t\t\t\t\t<p>Contact us</p>\n\t\t\t\t<a href=\"http://ravivignesh292@gmail.com\">\n\t\t\t\t\t\t\t\t</a>\n\t\t\t\t<h3>\n\t\t\t\t\t<a href=\"http://ravivignesh292@gmail.com\"></a>\n\t\t\t\t</h3>\n\t\t\t\t\t\t\t\t<p>E-MAIL</p>"
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 28,
+          "post_date": {
+            "__cdata": "2021-07-01 12:53:38"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-07-01 12:53:38"
+          },
+          "post_modified": {
+            "__cdata": "2021-07-29 10:04:23"
+          },
+          "post_modified_gmt": {
+            "__cdata": "2021-07-29 10:04:23"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "elementor-28"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "elementor-hf"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_edit_last"
+              },
+              "meta_value": {
+                "__cdata": "1"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_edit_mode"
+              },
+              "meta_value": {
+                "__cdata": "builder"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_template_type"
+              },
+              "meta_value": {
+                "__cdata": "wp-post"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_version"
+              },
+              "meta_value": {
+                "__cdata": "3.2.5"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_astra_content_layout_flag"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-post-title"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ast-title-bar-display"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ast-featured-img"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-content-layout"
+              },
+              "meta_value": {
+                "__cdata": "page-builder"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-sidebar-layout"
+              },
+              "meta_value": {
+                "__cdata": "no-sidebar"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_page_template"
+              },
+              "meta_value": {
+                "__cdata": "default"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_data"
+              },
+              "meta_value": {
+                "__cdata": "[{\"id\":\"ce39eb1\",\"elType\":\"section\",\"settings\":{\"structure\":\"50\",\"content_width\":{\"unit\":\"px\",\"size\":1165,\"sizes\":[]},\"hide_mobile\":\"hidden-phone\",\"hide_tablet\":\"hidden-tablet\",\"layout\":\"full_width\"},\"elements\":[{\"id\":\"e60e2cb\",\"elType\":\"column\",\"settings\":{\"_column_size\":20,\"_inline_size\":12},\"elements\":[{\"id\":\"0fb200f\",\"elType\":\"widget\",\"settings\":{\"site_logo_fallback\":\"yes\",\"custom_image\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/724448_19568785_3566100_aad1f744_image.jpg\",\"id\":53},\"width\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"space\":{\"unit\":\"%\",\"size\":67,\"sizes\":[]},\"site_logo_background_color\":\"#89222200\",\"image_border_radius\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[],\"widgetType\":\"site-logo\"}],\"isInner\":false},{\"id\":\"66b7de9\",\"elType\":\"column\",\"settings\":{\"_column_size\":20,\"_inline_size\":28,\"background_background\":\"classic\",\"background_color\":\"#141C32\",\"heading_color\":\"#60B5D1\",\"color_text\":\"#79C4E4\"},\"elements\":[{\"id\":\"61c6b19\",\"elType\":\"widget\",\"settings\":{\"text\":\"HOME\",\"button_text_color\":\"#85CAEC\",\"background_background\":\"gradient\",\"background_color\":\"#61CE7000\",\"background_color_b\":\"#F2292900\",\"align\":\"center\",\"icon_indent\":{\"unit\":\"px\",\"size\":0,\"sizes\":[]},\"link\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"}},\"elements\":[],\"widgetType\":\"button\"}],\"isInner\":false},{\"id\":\"12b1332\",\"elType\":\"column\",\"settings\":{\"_column_size\":20,\"_inline_size\":null,\"background_background\":\"classic\",\"background_color\":\"#141C32\"},\"elements\":[{\"id\":\"afa2d40\",\"elType\":\"widget\",\"settings\":{\"text\":\"PRODUCTS\",\"button_text_color\":\"#85CAEC\",\"background_background\":\"gradient\",\"background_color\":\"#61CE7000\",\"background_color_b\":\"#F2292900\",\"align\":\"center\",\"link\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/shop\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"}},\"elements\":[],\"widgetType\":\"button\"}],\"isInner\":false},{\"id\":\"6ba6523\",\"elType\":\"column\",\"settings\":{\"_column_size\":20,\"_inline_size\":null,\"background_background\":\"classic\",\"background_color\":\"#141C32\"},\"elements\":[{\"id\":\"aea25bb\",\"elType\":\"widget\",\"settings\":{\"text\":\"ABOUT  US\",\"button_text_color\":\"#85CAEC\",\"background_background\":\"gradient\",\"background_color\":\"#61CE7000\",\"background_color_b\":\"#F2292900\",\"align\":\"center\",\"link\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/about-us\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"}},\"elements\":[],\"widgetType\":\"button\"}],\"isInner\":false},{\"id\":\"becaf18\",\"elType\":\"column\",\"settings\":{\"_column_size\":20,\"_inline_size\":null,\"background_background\":\"classic\",\"background_color\":\"#141C32\"},\"elements\":[{\"id\":\"76a6e80\",\"elType\":\"widget\",\"settings\":{\"text\":\"CONTACT\",\"button_text_color\":\"#85CAEC\",\"background_color\":\"#61CE7000\",\"align\":\"center\",\"link\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/contact-2\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"}},\"elements\":[],\"widgetType\":\"button\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"dd6ea7d\",\"elType\":\"section\",\"settings\":{\"structure\":\"20\",\"hide_desktop\":\"hidden-desktop\",\"hide_tablet\":\"hidden-tablet\"},\"elements\":[{\"id\":\"d1298eb\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":null,\"_inline_size_mobile\":50,\"background_color\":\"#01070A\",\"background_color_b\":\"#20B9E4\",\"background_overlay_background\":\"classic\",\"background_overlay_color\":\"#091ED7\",\"background_overlay_color_b\":\"#000000\",\"border_radius_mobile\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[{\"id\":\"bb34c46\",\"elType\":\"widget\",\"settings\":{\"site_logo_fallback\":\"yes\",\"custom_image\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/724448_19568785_3566100_aad1f744_image.jpg\",\"id\":53},\"site_logo_background_color\":\"#893939\"},\"elements\":[],\"widgetType\":\"site-logo\"}],\"isInner\":false},{\"id\":\"5dc33ea\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":null,\"_inline_size_mobile\":50,\"content_position_mobile\":\"center\",\"background_background\":\"classic\",\"background_color\":\"#141C32\"},\"elements\":[{\"id\":\"d1c2f8b\",\"elType\":\"widget\",\"settings\":{\"menu\":\"primary-menu\",\"padding_horizontal_menu_item_mobile\":{\"unit\":\"px\",\"size\":2,\"sizes\":[]},\"padding_vertical_menu_item_mobile\":{\"unit\":\"px\",\"size\":5,\"sizes\":[]},\"toggle_color\":\"#FDFDFD\",\"toggle_background_color\":\"#1D191908\",\"_margin_mobile\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_padding_mobile\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_element_width_mobile\":\"inherit\"},\"elements\":[],\"widgetType\":\"navigation-menu\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"ebc3b25\",\"elType\":\"section\",\"settings\":{\"structure\":\"20\",\"hide_desktop\":\"hidden-desktop\",\"hide_tablet\":\"hidden-tablet\"},\"elements\":[{\"id\":\"895fbd4\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":null,\"_inline_size_mobile\":50,\"background_background\":\"classic\",\"background_color\":\"#141C32\"},\"elements\":[{\"id\":\"ade1f4a\",\"elType\":\"widget\",\"settings\":{\"selected_icon\":{\"value\":\"fas fa-phone-square-alt\",\"library\":\"fa-solid\"},\"title_text\":\"9791298989\",\"description_text\":\"Contact us\",\"primary_color\":\"#85CAEC\"},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":false},{\"id\":\"77d5e02\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":null,\"_inline_size_mobile\":50,\"background_background\":\"classic\",\"background_color\":\"#141C32\"},\"elements\":[{\"id\":\"dce4b0c\",\"elType\":\"widget\",\"settings\":{\"selected_icon\":{\"value\":\"fas fa-mail-bulk\",\"library\":\"fa-solid\"},\"view\":\"framed\",\"title_text\":\"\",\"description_text\":\"E-MAIL\",\"link\":{\"url\":\"ravivignesh292@gmail.com\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"primary_color\":\"#85CAEC\",\"icon_space_mobile\":{\"unit\":\"px\",\"size\":0,\"sizes\":[]},\"icon_size_mobile\":{\"unit\":\"px\",\"size\":44,\"sizes\":[]},\"icon_padding\":{\"unit\":\"px\",\"size\":23,\"sizes\":[]},\"_margin_mobile\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_padding_mobile\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[],\"widgetType\":\"icon-box\"}],\"isInner\":false}],\"isInner\":false}]"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ehf_target_include_locations"
+              },
+              "meta_value": {
+                "__cdata": "a:2:{s:4:\"rule\";a:1:{i:0;s:12:\"basic-global\";}s:8:\"specific\";a:0:{}}"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ehf_target_exclude_locations"
+              },
+              "meta_value": {
+                "__cdata": "a:0:{}"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ehf_target_user_roles"
+              },
+              "meta_value": {
+                "__cdata": "a:1:{i:0;s:3:\"all\";}"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ehf_template_type"
+              },
+              "meta_value": {
+                "__cdata": "type_header"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "theme-transparent-header-meta"
+              },
+              "meta_value": {
+                "__cdata": "default"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "display-on-canvas-template"
+              },
+              "meta_value": {
+                "__cdata": "1"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_controls_usage"
+              },
+              "meta_value": {
+                "__cdata": "a:6:{s:9:\"site-logo\";a:3:{s:5:\"count\";i:2;s:15:\"control_percent\";i:1;s:8:\"controls\";a:2:{s:7:\"content\";a:1:{s:18:\"section_site_image\";a:2:{s:18:\"site_logo_fallback\";i:2;s:12:\"custom_image\";i:2;}}s:5:\"style\";a:1:{s:29:\"section_style_site_logo_image\";a:4:{s:5:\"width\";i:1;s:5:\"space\";i:1;s:26:\"site_logo_background_color\";i:2;s:19:\"image_border_radius\";i:1;}}}}s:6:\"column\";a:3:{s:5:\"count\";i:9;s:15:\"control_percent\";i:1;s:8:\"controls\";a:2:{s:6:\"layout\";a:1:{s:6:\"layout\";a:3:{s:12:\"_inline_size\";i:9;s:19:\"_inline_size_mobile\";i:4;s:23:\"content_position_mobile\";i:1;}}s:5:\"style\";a:4:{s:13:\"section_style\";a:3:{s:21:\"background_background\";i:7;s:16:\"background_color\";i:8;s:18:\"background_color_b\";i:1;}s:12:\"section_typo\";a:2:{s:13:\"heading_color\";i:1;s:10:\"color_text\";i:1;}s:26:\"section_background_overlay\";a:3:{s:29:\"background_overlay_background\";i:1;s:24:\"background_overlay_color\";i:1;s:26:\"background_overlay_color_b\";i:1;}s:14:\"section_border\";a:1:{s:20:\"border_radius_mobile\";i:1;}}}}s:6:\"button\";a:3:{s:5:\"count\";i:4;s:15:\"control_percent\";i:1;s:8:\"controls\";a:2:{s:7:\"content\";a:1:{s:14:\"section_button\";a:4:{s:4:\"text\";i:4;s:5:\"align\";i:4;s:11:\"icon_indent\";i:1;s:4:\"link\";i:4;}}s:5:\"style\";a:1:{s:13:\"section_style\";a:4:{s:17:\"button_text_color\";i:4;s:21:\"background_background\";i:3;s:16:\"background_color\";i:4;s:18:\"background_color_b\";i:3;}}}}s:7:\"section\";a:3:{s:5:\"count\";i:3;s:15:\"control_percent\";i:1;s:8:\"controls\";a:2:{s:6:\"layout\";a:2:{s:17:\"section_structure\";a:1:{s:9:\"structure\";i:3;}s:14:\"section_layout\";a:2:{s:13:\"content_width\";i:1;s:6:\"layout\";i:1;}}s:8:\"advanced\";a:1:{s:19:\"_section_responsive\";a:3:{s:11:\"hide_mobile\";i:1;s:11:\"hide_tablet\";i:3;s:12:\"hide_desktop\";i:2;}}}}s:15:\"navigation-menu\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:1;s:8:\"controls\";a:2:{s:5:\"style\";a:2:{s:23:\"section_style_main-menu\";a:2:{s:35:\"padding_horizontal_menu_item_mobile\";i:1;s:33:\"padding_vertical_menu_item_mobile\";i:1;}s:12:\"style_toggle\";a:2:{s:12:\"toggle_color\";i:1;s:23:\"toggle_background_color\";i:1;}}s:8:\"advanced\";a:2:{s:14:\"_section_style\";a:2:{s:14:\"_margin_mobile\";i:1;s:15:\"_padding_mobile\";i:1;}s:17:\"_section_position\";a:1:{s:21:\"_element_width_mobile\";i:1;}}}}s:8:\"icon-box\";a:3:{s:5:\"count\";i:2;s:15:\"control_percent\";i:4;s:8:\"controls\";a:3:{s:7:\"content\";a:1:{s:12:\"section_icon\";a:5:{s:13:\"selected_icon\";i:2;s:10:\"title_text\";i:2;s:16:\"description_text\";i:2;s:4:\"view\";i:1;s:4:\"link\";i:1;}}s:5:\"style\";a:1:{s:18:\"section_style_icon\";a:4:{s:13:\"primary_color\";i:2;s:17:\"icon_space_mobile\";i:1;s:16:\"icon_size_mobile\";i:1;s:12:\"icon_padding\";i:1;}}s:8:\"advanced\";a:1:{s:14:\"_section_style\";a:2:{s:14:\"_margin_mobile\";i:1;s:15:\"_padding_mobile\";i:1;}}}}}"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "__cdata": "Footer"
+          },
+          "link": "http://localhost/wordpress/elementor-hf/footer/",
+          "pubDate": "Thu, 08 Jul 2021 09:46:16 +0000",
+          "creator": {
+            "__cdata": "user"
+          },
+          "guid": "http://localhost/wordpress/?post_type=elementor-hf&#038;p=77",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": "<a data-elementor-open-lightbox=\"\"  class='elementor-clickable' href=\"http://localhost/wordpress\">\n\t\t\t\t\t<img  src=\"http://localhost/wordpress/wp-content/uploads/2021/07/724448_19568785_3566100_aad1f744_image-150x150.jpg\" alt=\"724448_19568785_3566100_aad1f744_image\"/>\n\t\t\t\t\t\t\t</a>\n\t\t\t\t\t<a target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\tFacebook\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t<a target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\tTwitter\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t<a href=\"http://instagram.com\" target=\"_blank\" rel=\"noopener\">\n\t\t\t\t\t\tInstagram\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t<h2>Important Links</h2>\t\t\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t<a href=\"http://localhost/wordpress/\">\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tHome\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t<a href=\"http://localhost/wordpress/about-us/\">\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tAbout Us\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t<a href=\"http://localhost/wordpress/shop/\">\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tProducts\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t<h2>Contact us</h2>\t\t\n\t\t\t\t\t<ul>\n\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\tRV Nagar, Anna Nagar, Chennai-600227\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\travivignesh292@gmail.com\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t\t\t\t\t\t9791298989\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li>\n\t\t\t\t\t<a href=\"http://localhost/wordpress/contact-2/\">\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\tFill the Form\n\t\t\t\t\t\t\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t</ul>\n\t\t\t<iframe frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?q=anna%20nagar%2C%20Chennai&amp;t=m&amp;z=10&amp;output=embed&amp;iwloc=near\" title=\"%3$s\" aria-label=\"%3$s\"></iframe>"
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 77,
+          "post_date": {
+            "__cdata": "2021-07-08 09:46:16"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-07-08 09:46:16"
+          },
+          "post_modified": {
+            "__cdata": "2021-07-29 06:21:34"
+          },
+          "post_modified_gmt": {
+            "__cdata": "2021-07-29 06:21:34"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "footer"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "elementor-hf"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_edit_last"
+              },
+              "meta_value": {
+                "__cdata": "1"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_page_template"
+              },
+              "meta_value": {
+                "__cdata": "default"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ehf_target_include_locations"
+              },
+              "meta_value": {
+                "__cdata": "a:2:{s:4:\"rule\";a:1:{i:0;s:12:\"basic-global\";}s:8:\"specific\";a:0:{}}"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ehf_target_exclude_locations"
+              },
+              "meta_value": {
+                "__cdata": "a:0:{}"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ehf_target_user_roles"
+              },
+              "meta_value": {
+                "__cdata": "a:1:{i:0;s:3:\"all\";}"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ehf_template_type"
+              },
+              "meta_value": {
+                "__cdata": "type_footer"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "display-on-canvas-template"
+              },
+              "meta_value": {
+                "__cdata": "1"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-sidebar-layout"
+              },
+              "meta_value": {
+                "__cdata": "no-sidebar"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-content-layout"
+              },
+              "meta_value": {
+                "__cdata": "page-builder"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "theme-transparent-header-meta"
+              },
+              "meta_value": {
+                "__cdata": "default"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_edit_mode"
+              },
+              "meta_value": {
+                "__cdata": "builder"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_template_type"
+              },
+              "meta_value": {
+                "__cdata": "wp-post"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_version"
+              },
+              "meta_value": {
+                "__cdata": "3.2.5"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_astra_content_layout_flag"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-post-title"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ast-title-bar-display"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ast-featured-img"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_data"
+              },
+              "meta_value": {
+                "__cdata": "[{\"id\":\"cf56ee7\",\"elType\":\"section\",\"settings\":{\"layout\":\"full_width\",\"structure\":\"40\",\"margin\":{\"unit\":\"px\",\"top\":\"0\",\"right\":0,\"bottom\":\"0\",\"left\":0,\"isLinked\":false},\"padding\":{\"unit\":\"px\",\"top\":\"020\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[{\"id\":\"87dda44\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null,\"background_background\":\"classic\",\"background_color\":\"#141C32\"},\"elements\":[{\"id\":\"80c0e1e\",\"elType\":\"widget\",\"settings\":{\"site_logo_fallback\":\"yes\",\"custom_image\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/724448_19568785_3566100_aad1f744_image.jpg\",\"id\":53},\"site_logo_size_size\":\"thumbnail\",\"align_mobile\":\"left\"},\"elements\":[],\"widgetType\":\"site-logo\"},{\"id\":\"82ee3cb\",\"elType\":\"widget\",\"settings\":{\"social_icon_list\":[{\"social_icon\":{\"value\":\"fab fa-facebook\",\"library\":\"fa-brands\"},\"_id\":\"af43cc0\"},{\"social_icon\":{\"value\":\"fab fa-twitter\",\"library\":\"fa-brands\"},\"_id\":\"1081b27\"},{\"_id\":\"3673661\",\"social_icon\":{\"value\":\"fab fa-instagram\",\"library\":\"fa-brands\"},\"link\":{\"url\":\"instagram.com\",\"is_external\":\"true\",\"nofollow\":\"\",\"custom_attributes\":\"\"}}],\"shape\":\"square\",\"columns\":\"3\",\"icon_size\":{\"unit\":\"px\",\"size\":20,\"sizes\":[]},\"icon_padding\":{\"unit\":\"em\",\"size\":0.5,\"sizes\":[]},\"icon_spacing\":{\"unit\":\"px\",\"size\":19,\"sizes\":[]},\"row_gap\":{\"unit\":\"px\",\"size\":17,\"sizes\":[]},\"align_mobile\":\"left\",\"icon_padding_mobile\":{\"unit\":\"em\",\"size\":0.4,\"sizes\":[]},\"icon_spacing_mobile\":{\"unit\":\"px\",\"size\":21,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"social-icons\"}],\"isInner\":false},{\"id\":\"b8fc17e\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null,\"space_between_widgets_mobile\":20,\"background_background\":\"classic\",\"background_color\":\"#141C32\",\"padding_mobile\":{\"unit\":\"px\",\"top\":\"30\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[{\"id\":\"819b652\",\"elType\":\"widget\",\"settings\":{\"title\":\"Important Links\",\"title_color\":\"#85C9E6\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Roboto\",\"typography_font_size\":{\"unit\":\"px\",\"size\":27,\"sizes\":[]},\"typography_font_weight\":\"600\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"0f727b4\",\"elType\":\"widget\",\"settings\":{\"icon_list\":[{\"text\":\"Home\",\"_id\":\"4a8d690\",\"link\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"}},{\"text\":\"About Us\",\"_id\":\"91ebb6c\",\"link\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/about-us\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"}},{\"text\":\"Products\",\"_id\":\"0551745\",\"link\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/shop\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"}}],\"space_between\":{\"unit\":\"px\",\"size\":11,\"sizes\":[]},\"text_color\":\"#85C9E6\"},\"elements\":[],\"widgetType\":\"icon-list\"}],\"isInner\":false},{\"id\":\"51e296d\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null,\"_inline_size_mobile\":100,\"background_background\":\"classic\",\"background_color\":\"#141C32\",\"padding_mobile\":{\"unit\":\"px\",\"top\":\"30\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[{\"id\":\"4975ad3\",\"elType\":\"widget\",\"settings\":{\"title\":\"Contact us\",\"title_color\":\"#85C9E6\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Roboto\",\"typography_font_size\":{\"unit\":\"px\",\"size\":27,\"sizes\":[]},\"typography_font_weight\":\"600\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"8f39834\",\"elType\":\"widget\",\"settings\":{\"icon_list\":[{\"text\":\"RV Nagar, Anna Nagar, Chennai-600227\",\"_id\":\"4a8d690\",\"selected_icon\":{\"value\":\"fas fa-map-marker-alt\",\"library\":\"fa-solid\"}},{\"text\":\"ravivignesh292@gmail.com\",\"_id\":\"91ebb6c\",\"selected_icon\":{\"value\":\"fas fa-mail-bulk\",\"library\":\"fa-solid\"}},{\"text\":\"9791298989\",\"_id\":\"0551745\",\"selected_icon\":{\"value\":\"fas fa-phone-alt\",\"library\":\"fa-solid\"}},{\"text\":\"Fill the Form\",\"_id\":\"23724b1\",\"selected_icon\":{\"value\":\"fab fa-wpforms\",\"library\":\"fa-brands\"},\"link\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/contact-2\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"}}],\"space_between\":{\"unit\":\"px\",\"size\":11,\"sizes\":[]},\"text_color\":\"#85C9E6\",\"icon_typography_typography\":\"custom\",\"icon_typography_font_family\":\"Roboto\",\"icon_typography_font_weight\":\"400\",\"icon_typography_letter_spacing\":{\"unit\":\"px\",\"size\":-0.1,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"icon-list\"}],\"isInner\":false},{\"id\":\"24274d9\",\"elType\":\"column\",\"settings\":{\"_column_size\":25,\"_inline_size\":null,\"background_background\":\"classic\",\"background_color\":\"#141C32\",\"padding_mobile\":{\"unit\":\"px\",\"top\":\"030\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[{\"id\":\"81da193\",\"elType\":\"widget\",\"settings\":{\"address\":\"anna nagar, Chennai\"},\"elements\":[],\"widgetType\":\"google_maps\"}],\"isInner\":false}],\"isInner\":false}]"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_controls_usage"
+              },
+              "meta_value": {
+                "__cdata": "a:7:{s:9:\"site-logo\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:1;s:8:\"controls\";a:1:{s:7:\"content\";a:1:{s:18:\"section_site_image\";a:4:{s:18:\"site_logo_fallback\";i:1;s:12:\"custom_image\";i:1;s:19:\"site_logo_size_size\";i:1;s:12:\"align_mobile\";i:1;}}}}s:12:\"social-icons\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:4;s:8:\"controls\";a:2:{s:7:\"content\";a:1:{s:19:\"section_social_icon\";a:4:{s:16:\"social_icon_list\";i:1;s:5:\"shape\";i:1;s:7:\"columns\";i:1;s:12:\"align_mobile\";i:1;}}s:5:\"style\";a:1:{s:20:\"section_social_style\";a:6:{s:9:\"icon_size\";i:1;s:12:\"icon_padding\";i:1;s:12:\"icon_spacing\";i:1;s:7:\"row_gap\";i:1;s:19:\"icon_padding_mobile\";i:1;s:19:\"icon_spacing_mobile\";i:1;}}}}s:6:\"column\";a:3:{s:5:\"count\";i:4;s:15:\"control_percent\";i:1;s:8:\"controls\";a:3:{s:6:\"layout\";a:1:{s:6:\"layout\";a:3:{s:12:\"_inline_size\";i:4;s:28:\"space_between_widgets_mobile\";i:1;s:19:\"_inline_size_mobile\";i:1;}}s:5:\"style\";a:1:{s:13:\"section_style\";a:2:{s:21:\"background_background\";i:4;s:16:\"background_color\";i:4;}}s:8:\"advanced\";a:1:{s:16:\"section_advanced\";a:1:{s:14:\"padding_mobile\";i:3;}}}}s:7:\"heading\";a:3:{s:5:\"count\";i:2;s:15:\"control_percent\";i:3;s:8:\"controls\";a:2:{s:7:\"content\";a:1:{s:13:\"section_title\";a:1:{s:5:\"title\";i:2;}}s:5:\"style\";a:1:{s:19:\"section_title_style\";a:5:{s:11:\"title_color\";i:2;s:21:\"typography_typography\";i:2;s:22:\"typography_font_family\";i:2;s:20:\"typography_font_size\";i:2;s:22:\"typography_font_weight\";i:2;}}}}s:9:\"icon-list\";a:3:{s:5:\"count\";i:2;s:15:\"control_percent\";i:3;s:8:\"controls\";a:2:{s:7:\"content\";a:1:{s:12:\"section_icon\";a:1:{s:9:\"icon_list\";i:2;}}s:5:\"style\";a:2:{s:17:\"section_icon_list\";a:1:{s:13:\"space_between\";i:2;}s:18:\"section_text_style\";a:5:{s:10:\"text_color\";i:2;s:26:\"icon_typography_typography\";i:1;s:27:\"icon_typography_font_family\";i:1;s:27:\"icon_typography_font_weight\";i:1;s:30:\"icon_typography_letter_spacing\";i:1;}}}}s:11:\"google_maps\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:0;s:8:\"controls\";a:1:{s:7:\"content\";a:1:{s:11:\"section_map\";a:1:{s:7:\"address\";i:1;}}}}s:7:\"section\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:1;s:8:\"controls\";a:2:{s:6:\"layout\";a:2:{s:14:\"section_layout\";a:1:{s:6:\"layout\";i:1;}s:17:\"section_structure\";a:1:{s:9:\"structure\";i:1;}}s:8:\"advanced\";a:1:{s:16:\"section_advanced\";a:2:{s:6:\"margin\";i:1;s:7:\"padding\";i:1;}}}}}"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "__cdata": "Elementor #99"
+          },
+          "link": "http://localhost/wordpress/elementor-hf/elementor-99/",
+          "pubDate": "Sat, 10 Jul 2021 10:33:46 +0000",
+          "creator": {
+            "__cdata": "user"
+          },
+          "guid": "http://localhost/wordpress/?post_type=elementor-hf&#038;p=99",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": ""
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 99,
+          "post_date": {
+            "__cdata": "2021-07-10 10:33:46"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-07-10 10:33:46"
+          },
+          "post_modified": {
+            "__cdata": "2021-07-10 10:40:01"
+          },
+          "post_modified_gmt": {
+            "__cdata": "2021-07-10 10:40:01"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "elementor-99"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "elementor-hf"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_edit_last"
+              },
+              "meta_value": {
+                "__cdata": "1"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_edit_mode"
+              },
+              "meta_value": {
+                "__cdata": "builder"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_template_type"
+              },
+              "meta_value": {
+                "__cdata": "wp-post"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_version"
+              },
+              "meta_value": {
+                "__cdata": "3.2.5"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_astra_content_layout_flag"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-post-title"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ast-title-bar-display"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ast-featured-img"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-content-layout"
+              },
+              "meta_value": {
+                "__cdata": "page-builder"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-sidebar-layout"
+              },
+              "meta_value": {
+                "__cdata": "no-sidebar"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_page_template"
+              },
+              "meta_value": {
+                "__cdata": "default"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_data"
+              },
+              "meta_value": {
+                "__cdata": "[]"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

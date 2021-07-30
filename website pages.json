@@ -1,0 +1,1480 @@
+{
+  "rss": {
+    "channel": {
+      "title": "SMART INDIA",
+      "link": "http://localhost/wordpress",
+      "description": "work smart to achieve your goal",
+      "pubDate": "Thu, 29 Jul 2021 12:58:19 +0000",
+      "language": "en-US",
+      "wxr_version": 1.2,
+      "base_site_url": "http://localhost/wordpress",
+      "base_blog_url": "http://localhost/wordpress",
+      "author": {
+        "author_id": 1,
+        "author_login": {
+          "__cdata": "user"
+        },
+        "author_email": {
+          "__cdata": "ravivignesh292@gmail.com"
+        },
+        "author_display_name": {
+          "__cdata": "user"
+        },
+        "author_first_name": {
+          "__cdata": ""
+        },
+        "author_last_name": {
+          "__cdata": ""
+        }
+      },
+      "generator": "https://wordpress.org/?v=5.8",
+      "image": {
+        "url": "http://localhost/wordpress/wp-content/uploads/2021/06/cropped-ef51bd12701813e058e3bfce7c6a2d42-1-32x32.jpg",
+        "title": "SMART INDIA",
+        "link": "http://localhost/wordpress",
+        "width": 32,
+        "height": 32
+      },
+      "item": [
+        {
+          "title": {
+            "__cdata": "Sample Page"
+          },
+          "link": "http://localhost/wordpress/?page_id=2",
+          "pubDate": "Wed, 30 Jun 2021 10:16:54 +0000",
+          "creator": {
+            "__cdata": "user"
+          },
+          "guid": "http:/?page_id=2",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": "<!-- wp:paragraph -->\n<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:quote -->\n<blockquote class=wp-block-quote><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>\n<!-- /wp:quote -->\n\n<!-- wp:paragraph -->\n<p>...or something like this:</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:quote -->\n<blockquote class=wp-block-quote><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>\n<!-- /wp:quote -->\n\n<!-- wp:paragraph -->\n<p>As a new WordPress user, you should go to <a href=\"http:/wordpress/wp-admin/\">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>\n<!-- /wp:paragraph -->"
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 2,
+          "post_date": {
+            "__cdata": "2021-06-30 10:16:54"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-06-30 10:16:54"
+          },
+          "post_modified": {
+            "__cdata": "2021-07-29 08:29:22"
+          },
+          "post_modified_gmt": {
+            "__cdata": "2021-07-29 08:29:22"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "open"
+          },
+          "post_name": {
+            "__cdata": "sample-page__trashed"
+          },
+          "status": {
+            "__cdata": "trash"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "page"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_wp_page_template"
+              },
+              "meta_value": {
+                "__cdata": "default"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_trash_meta_status"
+              },
+              "meta_value": {
+                "__cdata": "publish"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_trash_meta_time"
+              },
+              "meta_value": {
+                "__cdata": "1627547362"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_desired_post_slug"
+              },
+              "meta_value": {
+                "__cdata": "sample-page"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "__cdata": "Privacy Policy"
+          },
+          "link": "http://localhost/wordpress/?page_id=3",
+          "pubDate": "Wed, 30 Jun 2021 10:16:54 +0000",
+          "creator": {
+            "__cdata": "user"
+          },
+          "guid": "http:/?page_id=3",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": "<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>Our website address is: http:.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Comments</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Media</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Cookies</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Embedded content from other websites</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where we send your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph -->"
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 3,
+          "post_date": {
+            "__cdata": "2021-06-30 10:16:54"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-06-30 10:16:54"
+          },
+          "post_modified": {
+            "__cdata": "2021-06-30 10:16:54"
+          },
+          "post_modified_gmt": {
+            "__cdata": "2021-06-30 10:16:54"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "open"
+          },
+          "post_name": {
+            "__cdata": "privacy-policy"
+          },
+          "status": {
+            "__cdata": "draft"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "page"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "postmeta": {
+            "meta_key": {
+              "__cdata": "_wp_page_template"
+            },
+            "meta_value": {
+              "__cdata": "default"
+            }
+          }
+        },
+        {
+          "title": {
+            "__cdata": "Create your website with blocks"
+          },
+          "link": "http://localhost/wordpress/?page_id=5",
+          "pubDate": "Wed, 30 Jun 2021 12:59:15 +0000",
+          "creator": {
+            "__cdata": "user"
+          },
+          "guid": "http://localhost/wordpress/?page_id=5",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": "\n\t\t\t\t\t<!-- wp:heading {\"align\":\"wide\",\"fontSize\":\"gigantic\",\"style\":{\"typography\":{\"lineHeight\":\"1.1\"}}} -->\n\t\t\t\t\t<h2 class=\"alignwide has-text-align-wide has-gigantic-font-size\" style=\"line-height:1.1\">Create your website with blocks</h2>\n\t\t\t\t\t<!-- /wp:heading -->\n\n\t\t\t\t\t<!-- wp:spacer -->\n\t\t\t\t\t<div style=\"height:100px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\t\t\t\t\t<!-- /wp:spacer -->\n\n\t\t\t\t\t<!-- wp:columns {\"verticalAlignment\":\"center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-columns-overlap\"} -->\n\t\t\t\t\t<div class=\"wp-block-columns alignwide are-vertically-aligned-center is-style-twentytwentyone-columns-overlap\"><!-- wp:column {\"verticalAlignment\":\"center\"} -->\n\t\t\t\t\t<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:image {\"align\":\"full\",\"sizeSlug\":\"large\"} -->\n\t\t\t\t\t<figure class=\"wp-block-image alignfull size-large\"><img src=\"http://localhost/wordpress/wp-content/themes/twentytwentyone/assets/images/roses-tremieres-hollyhocks-1884.jpg\" alt=\"&#8220;Roses Trémières&#8221; by Berthe Morisot\"/></figure>\n\t\t\t\t\t<!-- /wp:image -->\n\n\t\t\t\t\t<!-- wp:spacer -->\n\t\t\t\t\t<div style=\"height:100px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\t\t\t\t\t<!-- /wp:spacer -->\n\n\t\t\t\t\t<!-- wp:image {\"align\":\"full\",\"sizeSlug\":\"large\",\"className\":\"is-style-twentytwentyone-image-frame\"} -->\n\t\t\t\t\t<figure class=\"wp-block-image alignfull size-large is-style-twentytwentyone-image-frame\"><img src=\"http://localhost/wordpress/wp-content/themes/twentytwentyone/assets/images/in-the-bois-de-boulogne.jpg\" alt=\"&#8220;In the Bois de Boulogne&#8221; by Berthe Morisot\"/></figure>\n\t\t\t\t\t<!-- /wp:image --></div>\n\t\t\t\t\t<!-- /wp:column -->\n\n\t\t\t\t\t<!-- wp:column {\"verticalAlignment\":\"center\"} -->\n\t\t\t\t\t<div class=\"wp-block-column is-vertically-aligned-center\"><!-- wp:spacer -->\n\t\t\t\t\t<div style=\"height:100px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\t\t\t\t\t<!-- /wp:spacer -->\n\n\t\t\t\t\t<!-- wp:image {\"sizeSlug\":\"large\",\"className\":\"alignfull size-full is-style-twentytwentyone-border\"} -->\n\t\t\t\t\t<figure class=\"wp-block-image size-large alignfull size-full is-style-twentytwentyone-border\"><img src=\"http://localhost/wordpress/wp-content/themes/twentytwentyone/assets/images/young-woman-in-mauve.jpg\" alt=\"&#8220;Young Woman in Mauve&#8221; by Berthe Morisot\"/></figure>\n\t\t\t\t\t<!-- /wp:image --></div>\n\t\t\t\t\t<!-- /wp:column --></div>\n\t\t\t\t\t<!-- /wp:columns -->\n\n\t\t\t\t\t<!-- wp:spacer {\"height\":50} -->\n\t\t\t\t\t<div style=\"height:50px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\t\t\t\t\t<!-- /wp:spacer -->\n\n\t\t\t\t\t<!-- wp:columns {\"verticalAlignment\":\"top\",\"align\":\"wide\"} -->\n\t\t\t\t\t<div class=\"wp-block-columns alignwide are-vertically-aligned-top\"><!-- wp:column {\"verticalAlignment\":\"top\"} -->\n\t\t\t\t\t<div class=\"wp-block-column is-vertically-aligned-top\"><!-- wp:heading {\"level\":3} -->\n\t\t\t\t\t<h3>Add block patterns</h3>\n\t\t\t\t\t<!-- /wp:heading -->\n\n\t\t\t\t\t<!-- wp:paragraph -->\n\t\t\t\t\t<p>Block patterns are pre-designed groups of blocks. To add one, select the Add Block button [+] in the toolbar at the top of the editor. Switch to the Patterns tab underneath the search bar, and choose a pattern.</p>\n\t\t\t\t\t<!-- /wp:paragraph --></div>\n\t\t\t\t\t<!-- /wp:column -->\n\n\t\t\t\t\t<!-- wp:column {\"verticalAlignment\":\"top\"} -->\n\t\t\t\t\t<div class=\"wp-block-column is-vertically-aligned-top\"><!-- wp:heading {\"level\":3} -->\n\t\t\t\t\t<h3>Frame your images</h3>\n\t\t\t\t\t<!-- /wp:heading -->\n\n\t\t\t\t\t<!-- wp:paragraph -->\n\t\t\t\t\t<p>Twenty Twenty-One includes stylish borders for your content. With an Image block selected, open the &quot;Styles&quot; panel within the Editor sidebar. Select the &quot;Frame&quot; block style to activate it.</p>\n\t\t\t\t\t<!-- /wp:paragraph --></div>\n\t\t\t\t\t<!-- /wp:column -->\n\n\t\t\t\t\t<!-- wp:column {\"verticalAlignment\":\"top\"} -->\n\t\t\t\t\t<div class=\"wp-block-column is-vertically-aligned-top\"><!-- wp:heading {\"level\":3} -->\n\t\t\t\t\t<h3>Overlap columns</h3>\n\t\t\t\t\t<!-- /wp:heading -->\n\n\t\t\t\t\t<!-- wp:paragraph -->\n\t\t\t\t\t<p>Twenty Twenty-One also includes an overlap style for column blocks. With a Columns block selected, open the &quot;Styles&quot; panel within the Editor sidebar. Choose the &quot;Overlap&quot; block style to try it out.</p>\n\t\t\t\t\t<!-- /wp:paragraph --></div>\n\t\t\t\t\t<!-- /wp:column --></div>\n\t\t\t\t\t<!-- /wp:columns -->\n\n\t\t\t\t\t<!-- wp:spacer -->\n\t\t\t\t\t<div style=\"height:100px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\t\t\t\t\t<!-- /wp:spacer -->\n\n\t\t\t\t\t<!-- wp:cover {\"overlayColor\":\"green\",\"contentPosition\":\"center center\",\"align\":\"wide\",\"className\":\"is-style-twentytwentyone-border\"} -->\n\t\t\t\t\t<div class=\"wp-block-cover alignwide has-green-background-color has-background-dim is-style-twentytwentyone-border\"><div class=\"wp-block-cover__inner-container\"><!-- wp:spacer {\"height\":20} -->\n\t\t\t\t\t<div style=\"height:20px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\t\t\t\t\t<!-- /wp:spacer -->\n\n\t\t\t\t\t<!-- wp:paragraph {\"fontSize\":\"huge\"} -->\n\t\t\t\t\t<p class=\"has-huge-font-size\">Need help?</p>\n\t\t\t\t\t<!-- /wp:paragraph -->\n\n\t\t\t\t\t<!-- wp:spacer {\"height\":75} -->\n\t\t\t\t\t<div style=\"height:75px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\t\t\t\t\t<!-- /wp:spacer -->\n\n\t\t\t\t\t<!-- wp:columns -->\n\t\t\t\t\t<div class=\"wp-block-columns\"><!-- wp:column -->\n\t\t\t\t\t<div class=\"wp-block-column\"><!-- wp:paragraph -->\n\t\t\t\t\t<p><a href=\"https://wordpress.org/support/article/twenty-twenty-one/\">Read the Theme Documentation</a></p>\n\t\t\t\t\t<!-- /wp:paragraph --></div>\n\t\t\t\t\t<!-- /wp:column -->\n\n\t\t\t\t\t<!-- wp:column -->\n\t\t\t\t\t<div class=\"wp-block-column\"><!-- wp:paragraph -->\n\t\t\t\t\t<p><a href=\"https://wordpress.org/support/theme/twentytwentyone/\">Check out the Support Forums</a></p>\n\t\t\t\t\t<!-- /wp:paragraph --></div>\n\t\t\t\t\t<!-- /wp:column --></div>\n\t\t\t\t\t<!-- /wp:columns -->\n\n\t\t\t\t\t<!-- wp:spacer {\"height\":20} -->\n\t\t\t\t\t<div style=\"height:20px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\t\t\t\t\t<!-- /wp:spacer --></div></div>\n\t\t\t\t\t<!-- /wp:cover -->"
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 5,
+          "post_date": {
+            "__cdata": "2021-06-30 12:59:15"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-06-30 12:59:15"
+          },
+          "post_modified": {
+            "__cdata": "2021-07-29 08:27:11"
+          },
+          "post_modified_gmt": {
+            "__cdata": "2021-07-29 08:27:11"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "create-your-website-with-blocks__trashed"
+          },
+          "status": {
+            "__cdata": "trash"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "page"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_customize_changeset_uuid"
+              },
+              "meta_value": {
+                "__cdata": "a47f25e4-107a-4d37-a1dd-fcdde2f67557"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_trash_meta_status"
+              },
+              "meta_value": {
+                "__cdata": "publish"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_trash_meta_time"
+              },
+              "meta_value": {
+                "__cdata": "1627547230"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_desired_post_slug"
+              },
+              "meta_value": {
+                "__cdata": "create-your-website-with-blocks"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "__cdata": "About"
+          },
+          "link": "http://localhost/wordpress/?page_id=6",
+          "pubDate": "Wed, 30 Jun 2021 12:59:15 +0000",
+          "creator": {
+            "__cdata": "user"
+          },
+          "guid": "http://localhost/wordpress/?page_id=6",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": "<!-- wp:paragraph -->\n<p>You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.</p>\n<!-- /wp:paragraph -->"
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 6,
+          "post_date": {
+            "__cdata": "2021-06-30 12:59:15"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-06-30 12:59:15"
+          },
+          "post_modified": {
+            "__cdata": "2021-07-29 08:25:33"
+          },
+          "post_modified_gmt": {
+            "__cdata": "2021-07-29 08:25:33"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "about__trashed"
+          },
+          "status": {
+            "__cdata": "trash"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "page"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_customize_changeset_uuid"
+              },
+              "meta_value": {
+                "__cdata": "a47f25e4-107a-4d37-a1dd-fcdde2f67557"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_trash_meta_status"
+              },
+              "meta_value": {
+                "__cdata": "publish"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_trash_meta_time"
+              },
+              "meta_value": {
+                "__cdata": "1627547133"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_desired_post_slug"
+              },
+              "meta_value": {
+                "__cdata": "about"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "__cdata": "Contact"
+          },
+          "link": "http://localhost/wordpress/?page_id=7",
+          "pubDate": "Wed, 30 Jun 2021 12:59:16 +0000",
+          "creator": {
+            "__cdata": "user"
+          },
+          "guid": "http://localhost/wordpress/?page_id=7",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": "<!-- wp:paragraph -->\n<p>This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.</p>\n<!-- /wp:paragraph -->"
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 7,
+          "post_date": {
+            "__cdata": "2021-06-30 12:59:16"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-06-30 12:59:16"
+          },
+          "post_modified": {
+            "__cdata": "2021-07-29 08:26:38"
+          },
+          "post_modified_gmt": {
+            "__cdata": "2021-07-29 08:26:38"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "contact__trashed"
+          },
+          "status": {
+            "__cdata": "trash"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "page"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_customize_changeset_uuid"
+              },
+              "meta_value": {
+                "__cdata": "a47f25e4-107a-4d37-a1dd-fcdde2f67557"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_trash_meta_status"
+              },
+              "meta_value": {
+                "__cdata": "publish"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_trash_meta_time"
+              },
+              "meta_value": {
+                "__cdata": "1627547198"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_desired_post_slug"
+              },
+              "meta_value": {
+                "__cdata": "contact"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "__cdata": "Blog"
+          },
+          "link": "http://localhost/wordpress/?page_id=8",
+          "pubDate": "Wed, 30 Jun 2021 12:59:16 +0000",
+          "creator": {
+            "__cdata": "user"
+          },
+          "guid": "http://localhost/wordpress/?page_id=8",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": ""
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 8,
+          "post_date": {
+            "__cdata": "2021-06-30 12:59:16"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-06-30 12:59:16"
+          },
+          "post_modified": {
+            "__cdata": "2021-07-29 08:25:52"
+          },
+          "post_modified_gmt": {
+            "__cdata": "2021-07-29 08:25:52"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "blog__trashed"
+          },
+          "status": {
+            "__cdata": "trash"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "page"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_customize_changeset_uuid"
+              },
+              "meta_value": {
+                "__cdata": "a47f25e4-107a-4d37-a1dd-fcdde2f67557"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_trash_meta_status"
+              },
+              "meta_value": {
+                "__cdata": "publish"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_trash_meta_time"
+              },
+              "meta_value": {
+                "__cdata": "1627547152"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_desired_post_slug"
+              },
+              "meta_value": {
+                "__cdata": "blog"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "__cdata": "Homepage"
+          },
+          "link": "http://localhost/wordpress/",
+          "pubDate": "Thu, 08 Jul 2021 16:46:51 +0000",
+          "creator": {
+            "__cdata": "user"
+          },
+          "guid": "http://localhost/wordpress/?page_id=97",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": "<h2>BE SIMPLE AND SMART\n</h2>\t\t\n\t\t\t<h2>BE SIMPLE\n AND SMART\n</h2>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"1024\" height=\"1024\" src=\"http://localhost/wordpress/wp-content/uploads/2021/07/Team-Building-Signs-1024x1024-1.jpg\" alt=\"\" loading=\"lazy\" srcset=\"http://localhost/wordpress/wp-content/uploads/2021/07/Team-Building-Signs-1024x1024-1.jpg 1024w, http://localhost/wordpress/wp-content/uploads/2021/07/Team-Building-Signs-1024x1024-1-300x300.jpg 300w, http://localhost/wordpress/wp-content/uploads/2021/07/Team-Building-Signs-1024x1024-1-150x150.jpg 150w, http://localhost/wordpress/wp-content/uploads/2021/07/Team-Building-Signs-1024x1024-1-768x768.jpg 768w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>About  Us</h2>\t\t\n\t\t<p>Our team builds products such as smart watches, fitness bands , smart electric fans, and lot more things with the latest Internet of things technology which will make you a more smarter citizen.<br />We are an efficient team of five and will help you to achieve your dreams.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"1024\" height=\"1024\" src=\"http://localhost/wordpress/wp-content/uploads/2021/07/Team-Building-Signs-1024x1024-1.jpg\" alt=\"\" loading=\"lazy\" srcset=\"http://localhost/wordpress/wp-content/uploads/2021/07/Team-Building-Signs-1024x1024-1.jpg 1024w, http://localhost/wordpress/wp-content/uploads/2021/07/Team-Building-Signs-1024x1024-1-300x300.jpg 300w, http://localhost/wordpress/wp-content/uploads/2021/07/Team-Building-Signs-1024x1024-1-150x150.jpg 150w, http://localhost/wordpress/wp-content/uploads/2021/07/Team-Building-Signs-1024x1024-1-768x768.jpg 768w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>About  Us</h2>\t\t\n\t\t<p>Our team builds products such as smart watches, fitness bands , smart electric fans, and lot more things with the latest Internet of things technology which will make you a more smarter citizen.<br />We are an efficient team of five and will help you to achieve your dreams.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"1024\" height=\"768\" src=\"http://localhost/wordpress/wp-content/uploads/2021/07/230334_01-1024x768.jpg\" alt=\"door lock\" loading=\"lazy\" srcset=\"http://localhost/wordpress/wp-content/uploads/2021/07/230334_01-1024x768.jpg 1024w, http://localhost/wordpress/wp-content/uploads/2021/07/230334_01-300x225.jpg 300w, http://localhost/wordpress/wp-content/uploads/2021/07/230334_01-768x576.jpg 768w, http://localhost/wordpress/wp-content/uploads/2021/07/230334_01-1536x1152.jpg 1536w, http://localhost/wordpress/wp-content/uploads/2021/07/230334_01.jpg 2048w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>SMART DOOR LOCK</h2>\t\t\n\t\t<p>With the smart lock we can lock and unlock doors in our house with just a tap on your phone or just a voice command. An alert will also notify us of the unlocked doors and ensure that we are safe always.</p>\t\t\n\t\t\t<a href=\"http://localhost/wordpress/product/smart-door-lock/\" role=\"button\">\n\t\t\t\t\t\tKnow More\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"1024\" height=\"682\" src=\"http://localhost/wordpress/wp-content/uploads/2021/07/1280px-Smartwatch-828786-1024x682.jpg\" alt=\"\" loading=\"lazy\" srcset=\"http://localhost/wordpress/wp-content/uploads/2021/07/1280px-Smartwatch-828786-1024x682.jpg 1024w, http://localhost/wordpress/wp-content/uploads/2021/07/1280px-Smartwatch-828786-300x200.jpg 300w, http://localhost/wordpress/wp-content/uploads/2021/07/1280px-Smartwatch-828786-768x512.jpg 768w, http://localhost/wordpress/wp-content/uploads/2021/07/1280px-Smartwatch-828786.jpg 1280w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>SMART WATCH</h2>\t\t\n\t\t<p>Watch out our signature product Techie Watchie which has amazing features like monitoring heart rate , google maps ,pedometers and much more.</p>\t\t\n\t\t\t<a href=\"http://localhost/wordpress/product/smart-watch/\" role=\"button\">\n\t\t\t\t\t\tKnow More\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"1024\" height=\"683\" src=\"http://localhost/wordpress/wp-content/uploads/2021/07/smart-speaker.jpg\" alt=\"speaker\" loading=\"lazy\" srcset=\"http://localhost/wordpress/wp-content/uploads/2021/07/smart-speaker.jpg 1024w, http://localhost/wordpress/wp-content/uploads/2021/07/smart-speaker-300x200.jpg 300w, http://localhost/wordpress/wp-content/uploads/2021/07/smart-speaker-768x512.jpg 768w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>SMART SPEAKER</h2>\t\t\n\t\t<p>Get hands-free help around the house from your Assistant on speakers with the Google Assistant built in. Get answers on sports, weather, finance, calculations, translations and more.</p>\t\t\n\t\t\t<a href=\"http://localhost/wordpress/product/smart-speaker/\" role=\"button\">\n\t\t\t\t\t\tKnow More\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"1024\" height=\"768\" src=\"http://localhost/wordpress/wp-content/uploads/2021/07/230334_01-1024x768.jpg\" alt=\"door lock\" loading=\"lazy\" srcset=\"http://localhost/wordpress/wp-content/uploads/2021/07/230334_01-1024x768.jpg 1024w, http://localhost/wordpress/wp-content/uploads/2021/07/230334_01-300x225.jpg 300w, http://localhost/wordpress/wp-content/uploads/2021/07/230334_01-768x576.jpg 768w, http://localhost/wordpress/wp-content/uploads/2021/07/230334_01-1536x1152.jpg 1536w, http://localhost/wordpress/wp-content/uploads/2021/07/230334_01.jpg 2048w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>SMART DOOR LOCK</h2>\t\t\n\t\t<p>With the smart lock we can lock and unlock doors in our house with just a tap on your phone or just a voice command. An alert will also notify us of the unlocked doors and ensure that we are safe always.</p>\t\t\n\t\t\t<a href=\"http://localhost/wordpress/product/smart-door-lock/\" role=\"button\">\n\t\t\t\t\t\tKnow More\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"1024\" height=\"682\" src=\"http://localhost/wordpress/wp-content/uploads/2021/07/1280px-Smartwatch-828786-1024x682.jpg\" alt=\"\" loading=\"lazy\" srcset=\"http://localhost/wordpress/wp-content/uploads/2021/07/1280px-Smartwatch-828786-1024x682.jpg 1024w, http://localhost/wordpress/wp-content/uploads/2021/07/1280px-Smartwatch-828786-300x200.jpg 300w, http://localhost/wordpress/wp-content/uploads/2021/07/1280px-Smartwatch-828786-768x512.jpg 768w, http://localhost/wordpress/wp-content/uploads/2021/07/1280px-Smartwatch-828786.jpg 1280w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>SMART WATCH</h2>\t\t\n\t\t<p>Watch out our signature product Techie Watchie which has amazing features like monitoring heart rate , google maps ,pedometers and much more.</p>\t\t\n\t\t\t<a href=\"http://localhost/wordpress/product/smart-watch/\" role=\"button\">\n\t\t\t\t\t\tKnow More\n\t\t\t\t\t</a>\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img width=\"1024\" height=\"683\" src=\"http://localhost/wordpress/wp-content/uploads/2021/07/smart-speaker.jpg\" alt=\"speaker\" loading=\"lazy\" srcset=\"http://localhost/wordpress/wp-content/uploads/2021/07/smart-speaker.jpg 1024w, http://localhost/wordpress/wp-content/uploads/2021/07/smart-speaker-300x200.jpg 300w, http://localhost/wordpress/wp-content/uploads/2021/07/smart-speaker-768x512.jpg 768w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" />\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t<h2>SMART SPEAKER</h2>\t\t\n\t\t<p>Get hands-free help around the house from your Assistant on speakers with the Google Assistant built in. Just start with “Ok Google”. Get answers on sports, weather, finance, calculations, translations and more..</p>\t\t\n\t\t\t<a href=\"http://localhost/wordpress/product/smart-speaker/\" role=\"button\">\n\t\t\t\t\t\tKnow More\n\t\t\t\t\t</a>\n\t\t\t<h2>BUSINESS COLLABORATIONS</h2>\t\t\n\t\t\t\t<figure><img src=\"http://localhost/wordpress/wp-content/uploads/2021/07/Oracle-Logo.png\" alt=\"Oracle-Logo\" /></figure><figure><img src=\"http://localhost/wordpress/wp-content/uploads/2021/07/IBM_logo_in.jpg\" alt=\"IBM_logo_in\" /></figure><figure><img src=\"http://localhost/wordpress/wp-content/uploads/2021/07/Siemens-Logo.png\" alt=\"Siemens-Logo\" /></figure><figure><img src=\"http://localhost/wordpress/wp-content/uploads/2021/07/HP-logo-1.png\" alt=\"HP-logo\" /></figure><figure><img src=\"http://localhost/wordpress/wp-content/uploads/2021/07/download-1.jpg\" alt=\"download (1)\" /></figure><figure><img src=\"http://localhost/wordpress/wp-content/uploads/2021/07/ps-citibank-01.jpg\" alt=\"ps-citibank-01\" /></figure>\t\t\t\n\t\t\t\t\t\tPrevious\n\t\t\t\t\t\tNext"
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 97,
+          "post_date": {
+            "__cdata": "2021-07-08 16:46:51"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-07-08 16:46:51"
+          },
+          "post_modified": {
+            "__cdata": "2021-07-29 10:19:32"
+          },
+          "post_modified_gmt": {
+            "__cdata": "2021-07-29 10:19:32"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "home"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "page"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_wp_page_template"
+              },
+              "meta_value": {
+                "__cdata": "elementor_canvas"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_edit_last"
+              },
+              "meta_value": {
+                "__cdata": "1"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-sidebar-layout"
+              },
+              "meta_value": {
+                "__cdata": "no-sidebar"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-content-layout"
+              },
+              "meta_value": {
+                "__cdata": "page-builder"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "theme-transparent-header-meta"
+              },
+              "meta_value": {
+                "__cdata": "default"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_template_type"
+              },
+              "meta_value": {
+                "__cdata": "wp-page"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_version"
+              },
+              "meta_value": {
+                "__cdata": "3.2.5"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_astra_content_layout_flag"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-post-title"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ast-title-bar-display"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ast-featured-img"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_data"
+              },
+              "meta_value": {
+                "__cdata": "[{\"id\":\"86564d2\",\"elType\":\"section\",\"settings\":{\"height\":\"full\",\"background_background\":\"classic\",\"background_image\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/istockphoto-1283639047-612x612-1.jpg\",\"id\":129},\"background_size\":\"initial\",\"padding\":{\"unit\":\"px\",\"top\":\"8\",\"right\":\"0\",\"bottom\":\"123\",\"left\":\"0\",\"isLinked\":false},\"animation\":\"fadeInLeft\",\"animation_delay\":200,\"hide_mobile\":\"hidden-phone\"},\"elements\":[{\"id\":\"2540cfa\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null,\"animation\":\"fadeInLeft\"},\"elements\":[{\"id\":\"6d3f380\",\"elType\":\"widget\",\"settings\":{\"title\":\"BE SIMPLE AND SMART\\n\",\"size\":\"small\",\"align\":\"left\",\"title_color\":\"#060A0AFC\",\"typography_typography\":\"custom\",\"typography_font_family\":\"PT Serif Caption\",\"typography_font_size\":{\"unit\":\"px\",\"size\":72,\"sizes\":[]},\"typography_font_weight\":\"600\",\"typography_font_style\":\"italic\",\"typography_line_height\":{\"unit\":\"em\",\"size\":1.1,\"sizes\":[]},\"typography_letter_spacing\":{\"unit\":\"px\",\"size\":0,\"sizes\":[]},\"blend_mode\":\"screen\",\"_padding\":{\"unit\":\"px\",\"top\":\"62\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"fadeInUp\",\"_element_width\":\"initial\",\"_element_custom_width\":{\"unit\":\"px\",\"size\":1070},\"_position\":\"absolute\",\"_offset_x\":{\"size\":1,\"unit\":\"px\"},\"_offset_y\":{\"size\":-2,\"unit\":\"px\"}},\"elements\":[],\"widgetType\":\"heading\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"f384d6d\",\"elType\":\"section\",\"settings\":{\"height\":\"full\",\"background_background\":\"classic\",\"background_image\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/istockphoto-1283639047-612x612-1.jpg\",\"id\":129},\"background_size\":\"initial\",\"padding\":{\"unit\":\"px\",\"top\":\"8\",\"right\":\"0\",\"bottom\":\"123\",\"left\":\"0\",\"isLinked\":false},\"animation\":\"fadeInLeft\",\"animation_delay\":200,\"content_width\":{\"unit\":\"px\",\"size\":500,\"sizes\":[]},\"animation_mobile\":\"fadeInLeft\",\"hide_desktop\":\"hidden-desktop\",\"hide_tablet\":\"hidden-tablet\"},\"elements\":[{\"id\":\"08c6880\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null,\"animation\":\"fadeInLeft\",\"_inline_size_mobile\":12},\"elements\":[{\"id\":\"cea83c6\",\"elType\":\"widget\",\"settings\":{\"title\":\"BE SIMPLE\\n AND SMART\\n\",\"size\":\"small\",\"align\":\"left\",\"title_color\":\"#060A0AFC\",\"typography_typography\":\"custom\",\"typography_font_family\":\"PT Serif Caption\",\"typography_font_size\":{\"unit\":\"px\",\"size\":72,\"sizes\":[]},\"typography_font_weight\":\"600\",\"typography_font_style\":\"italic\",\"typography_line_height\":{\"unit\":\"em\",\"size\":1.1,\"sizes\":[]},\"typography_letter_spacing\":{\"unit\":\"px\",\"size\":0,\"sizes\":[]},\"blend_mode\":\"screen\",\"_padding\":{\"unit\":\"px\",\"top\":\"62\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"fadeInUp\",\"_element_width\":\"initial\",\"_element_custom_width\":{\"unit\":\"px\",\"size\":1070},\"_position\":\"absolute\",\"_offset_x\":{\"size\":1,\"unit\":\"px\"},\"_offset_y\":{\"size\":-2,\"unit\":\"px\"},\"typography_font_size_mobile\":{\"unit\":\"px\",\"size\":21,\"sizes\":[]},\"_offset_x_mobile\":{\"size\":-10,\"unit\":\"px\"},\"_offset_y_mobile\":{\"size\":-28,\"unit\":\"px\"}},\"elements\":[],\"widgetType\":\"heading\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"5d8d064\",\"elType\":\"section\",\"settings\":{\"structure\":\"20\",\"background_background\":\"classic\",\"background_color\":\"#141C32\",\"animation\":\"fadeInUp\",\"animation_duration\":\"slow\",\"padding\":{\"unit\":\"px\",\"top\":\"40\",\"right\":\"6\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"hide_mobile\":\"hidden-phone\"},\"elements\":[{\"id\":\"222efd6\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":null,\"background_background\":\"classic\"},\"elements\":[{\"id\":\"895cbae\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/Team-Building-Signs-1024x1024-1.jpg\",\"id\":143},\"_animation\":\"bounceInDown\"},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false},{\"id\":\"dece6d4\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":null},\"elements\":[{\"id\":\"a201053\",\"elType\":\"widget\",\"settings\":{\"title\":\"About  Us\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Roboto\",\"typography_font_size\":{\"unit\":\"px\",\"size\":50,\"sizes\":[]},\"typography_font_weight\":\"600\",\"_padding\":{\"unit\":\"px\",\"top\":\"14\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"fadeInRight\",\"_animation_delay\":200,\"size\":\"small\",\"typography_letter_spacing\":{\"unit\":\"px\",\"size\":0.6,\"sizes\":[]},\"title_color\":\"#6EC1E4\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"3dc44e0\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p>Our team builds products such as smart watches, fitness bands , smart electric fans, and lot more things with the latest Internet of things technology which will make you a more smarter citizen.<br \\/>We are an efficient team of five and will help you to achieve your dreams.<\\/p>\",\"text_color\":\"#6EC1E4\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Roboto\",\"typography_font_size\":{\"unit\":\"px\",\"size\":25,\"sizes\":[]},\"typography_font_weight\":\"400\"},\"elements\":[],\"widgetType\":\"text-editor\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"36875c1\",\"elType\":\"section\",\"settings\":{\"structure\":\"20\",\"background_background\":\"classic\",\"background_color\":\"#141C32\",\"animation\":\"fadeInUp\",\"animation_duration\":\"slow\",\"padding\":{\"unit\":\"px\",\"top\":\"40\",\"right\":\"6\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"padding_mobile\":{\"unit\":\"px\",\"top\":\"7\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"animation_mobile\":\"rotateInUpLeft\",\"hide_desktop\":\"hidden-desktop\",\"hide_tablet\":\"hidden-tablet\"},\"elements\":[{\"id\":\"90f5ab2\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":null,\"background_background\":\"classic\"},\"elements\":[{\"id\":\"1d9c377\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/Team-Building-Signs-1024x1024-1.jpg\",\"id\":143},\"_animation\":\"bounceInDown\"},\"elements\":[],\"widgetType\":\"image\"}],\"isInner\":false},{\"id\":\"b186467\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":null},\"elements\":[{\"id\":\"557eebf\",\"elType\":\"widget\",\"settings\":{\"title\":\"About  Us\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Roboto\",\"typography_font_size\":{\"unit\":\"px\",\"size\":50,\"sizes\":[]},\"typography_font_weight\":\"600\",\"_padding\":{\"unit\":\"px\",\"top\":\"14\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"fadeInRight\",\"_animation_delay\":200,\"size\":\"small\",\"typography_letter_spacing\":{\"unit\":\"px\",\"size\":0.6,\"sizes\":[]},\"title_color\":\"#6EC1E4\",\"typography_font_size_mobile\":{\"unit\":\"px\",\"size\":28,\"sizes\":[]}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"cff8aa5\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p>Our team builds products such as smart watches, fitness bands , smart electric fans, and lot more things with the latest Internet of things technology which will make you a more smarter citizen.<br \\/>We are an efficient team of five and will help you to achieve your dreams.<\\/p>\",\"text_color\":\"#6EC1E4\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Roboto\",\"typography_font_size\":{\"unit\":\"px\",\"size\":25,\"sizes\":[]},\"typography_font_weight\":\"400\",\"typography_font_size_mobile\":{\"unit\":\"px\",\"size\":15,\"sizes\":[]},\"_animation_mobile\":\"fadeInLeft\"},\"elements\":[],\"widgetType\":\"text-editor\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"17220b0\",\"elType\":\"section\",\"settings\":{\"content_width\":{\"unit\":\"px\",\"size\":1011,\"sizes\":[]},\"structure\":\"30\",\"background_background\":\"classic\",\"background_color\":\"#DFEFF2\",\"padding\":{\"unit\":\"px\",\"top\":\"060\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"hide_mobile\":\"hidden-phone\"},\"elements\":[{\"id\":\"13eed88\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null,\"background_background\":\"classic\",\"background_color\":\"#DFEFF2\",\"padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"13\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"animation\":\"zoomInLeft\",\"animation_delay\":200},\"elements\":[{\"id\":\"eb88a42\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/230334_01.jpg\",\"id\":154}},\"elements\":[],\"widgetType\":\"image\"},{\"id\":\"f5b8e7e\",\"elType\":\"widget\",\"settings\":{\"title\":\"SMART DOOR LOCK\",\"align\":\"center\",\"title_color\":\"#6EC1E4\",\"_padding\":{\"unit\":\"px\",\"top\":\"17\",\"right\":\"0\",\"bottom\":\"4\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"62f16ea\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p>With the smart lock we can lock and unlock doors in our house with just a tap on your phone or just a voice command. An alert will also notify us of the unlocked doors and ensure that we are safe always.<\\/p>\",\"align\":\"justify\",\"text_color\":\"#0A0303\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Roboto\",\"typography_font_size\":{\"unit\":\"px\",\"size\":15,\"sizes\":[]},\"typography_font_weight\":\"400\",\"typography_line_height\":{\"unit\":\"em\",\"size\":1.6,\"sizes\":[]},\"_animation\":\"fadeInLeft\",\"_padding\":{\"unit\":\"px\",\"top\":\"-4\",\"right\":\"0\",\"bottom\":\"-2\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[],\"widgetType\":\"text-editor\"},{\"id\":\"e133719\",\"elType\":\"widget\",\"settings\":{\"text\":\"Know More\",\"align\":\"center\",\"background_color\":\"#1B2539\",\"_padding\":{\"unit\":\"px\",\"top\":\"43\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"fadeInUp\",\"_animation_delay\":300,\"link\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/product\\/smart-door-lock\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"}},\"elements\":[],\"widgetType\":\"button\"}],\"isInner\":false},{\"id\":\"2e301b7\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null,\"content_position\":\"top\",\"background_background\":\"classic\",\"background_color\":\"#DFEFF2\",\"padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"13\",\"bottom\":\"10\",\"left\":\"2\",\"isLinked\":false},\"animation\":\"slideInUp\"},\"elements\":[{\"id\":\"35f89cc\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/1280px-Smartwatch-828786.jpg\",\"id\":159},\"width\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"space\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"height\":{\"unit\":\"px\",\"size\":243,\"sizes\":[]},\"_padding\":{\"unit\":\"px\",\"top\":\"1\",\"right\":\"0\",\"bottom\":\"2\",\"left\":\"6\",\"isLinked\":false}},\"elements\":[],\"widgetType\":\"image\"},{\"id\":\"4199f0b\",\"elType\":\"widget\",\"settings\":{\"title\":\"SMART WATCH\",\"align\":\"center\",\"_padding\":{\"unit\":\"px\",\"top\":\"8\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"zoomInUp\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"a5e4e5a\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p>Watch out our signature product Techie Watchie which has amazing features like monitoring heart rate , google maps ,pedometers and much more.<\\/p>\",\"text_color\":\"#05080A\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Roboto\",\"typography_font_size\":{\"unit\":\"px\",\"size\":15,\"sizes\":[]},\"typography_font_weight\":\"400\",\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"rollIn\"},\"elements\":[],\"widgetType\":\"text-editor\"},{\"id\":\"bc9eb2b\",\"elType\":\"widget\",\"settings\":{\"text\":\"Know More\",\"align\":\"center\",\"button_text_color\":\"#DFEAED\",\"background_color\":\"#101D2D\",\"_padding\":{\"unit\":\"px\",\"top\":\"57\",\"right\":\"0\",\"bottom\":\"2\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"fadeInLeft\",\"link\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/product\\/smart-watch\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"}},\"elements\":[],\"widgetType\":\"button\"}],\"isInner\":false},{\"id\":\"9def4fd\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null,\"background_background\":\"classic\",\"background_color\":\"#DFEFF2\",\"animation\":\"slideInRight\"},\"elements\":[{\"id\":\"5492d00\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/smart-speaker.jpg\",\"id\":161},\"width\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"space\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"height\":{\"unit\":\"px\",\"size\":244,\"sizes\":[]},\"_padding\":{\"unit\":\"px\",\"top\":\"-5\",\"right\":\"0\",\"bottom\":\"-7\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"fadeInRight\"},\"elements\":[],\"widgetType\":\"image\"},{\"id\":\"00c84d9\",\"elType\":\"widget\",\"settings\":{\"title\":\"SMART SPEAKER\",\"align\":\"center\",\"_padding\":{\"unit\":\"px\",\"top\":\"-2\",\"right\":\"4\",\"bottom\":\"-3\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"slideInRight\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"e96e197\",\"elType\":\"widget\",\"settings\":{\"_animation\":\"zoomInRight\",\"text_color\":\"#020202\",\"editor\":\"<p>Get hands-free help around the house from your Assistant on speakers with the Google Assistant built in. Get answers on sports, weather, finance, calculations, translations and more.<\\/p>\"},\"elements\":[],\"widgetType\":\"text-editor\"},{\"id\":\"63103b1\",\"elType\":\"widget\",\"settings\":{\"text\":\"Know More\",\"align\":\"center\",\"background_color\":\"#142931\",\"_padding\":{\"unit\":\"px\",\"top\":\"31\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"slideInUp\",\"link\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/product\\/smart-speaker\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"}},\"elements\":[],\"widgetType\":\"button\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"d87fc61\",\"elType\":\"section\",\"settings\":{\"content_width\":{\"unit\":\"px\",\"size\":1011,\"sizes\":[]},\"structure\":\"30\",\"background_background\":\"classic\",\"background_color\":\"#DFEFF2\",\"padding\":{\"unit\":\"px\",\"top\":\"060\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"hide_desktop\":\"hidden-desktop\",\"hide_tablet\":\"hidden-tablet\"},\"elements\":[{\"id\":\"e3f4775\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null,\"background_background\":\"classic\",\"background_color\":\"#DFEFF2\",\"padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"13\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"animation\":\"zoomInLeft\",\"animation_delay\":200},\"elements\":[{\"id\":\"9ae3334\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/230334_01.jpg\",\"id\":154},\"_animation_mobile\":\"bounceIn\"},\"elements\":[],\"widgetType\":\"image\"},{\"id\":\"21e43eb\",\"elType\":\"widget\",\"settings\":{\"title\":\"SMART DOOR LOCK\",\"align\":\"center\",\"title_color\":\"#6EC1E4\",\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"-1\",\"left\":\"0\",\"isLinked\":false},\"_animation_mobile\":\"slideInLeft\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"8e15d06\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p>With the smart lock we can lock and unlock doors in our house with just a tap on your phone or just a voice command. An alert will also notify us of the unlocked doors and ensure that we are safe always.<\\/p>\",\"align\":\"justify\",\"text_color\":\"#0A0303\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Roboto\",\"typography_font_size\":{\"unit\":\"px\",\"size\":15,\"sizes\":[]},\"typography_font_weight\":\"400\",\"typography_line_height\":{\"unit\":\"em\",\"size\":1.6,\"sizes\":[]},\"_animation\":\"fadeInLeft\"},\"elements\":[],\"widgetType\":\"text-editor\"},{\"id\":\"3413c53\",\"elType\":\"widget\",\"settings\":{\"text\":\"Know More\",\"align\":\"center\",\"background_color\":\"#1B2539\",\"_padding\":{\"unit\":\"px\",\"top\":\"7\",\"right\":\"0\",\"bottom\":\"5\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"fadeInUp\",\"_animation_delay\":300,\"link\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/product\\/smart-door-lock\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"},\"_animation_mobile\":\"fadeInUp\"},\"elements\":[],\"widgetType\":\"button\"}],\"isInner\":false},{\"id\":\"aa70182\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null,\"content_position\":\"top\",\"background_background\":\"classic\",\"background_color\":\"#DFEFF2\",\"padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"13\",\"bottom\":\"10\",\"left\":\"2\",\"isLinked\":false},\"animation\":\"slideInUp\",\"animation_mobile\":\"slideInRight\"},\"elements\":[{\"id\":\"b7c17e5\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/1280px-Smartwatch-828786.jpg\",\"id\":159},\"width\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"space\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"height\":{\"unit\":\"px\",\"size\":243,\"sizes\":[]},\"_padding\":{\"unit\":\"px\",\"top\":\"1\",\"right\":\"0\",\"bottom\":\"2\",\"left\":\"6\",\"isLinked\":false},\"_padding_mobile\":{\"unit\":\"px\",\"top\":\"17\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[],\"widgetType\":\"image\"},{\"id\":\"70559ad\",\"elType\":\"widget\",\"settings\":{\"title\":\"SMART WATCH\",\"align\":\"center\",\"_padding\":{\"unit\":\"px\",\"top\":\"-4\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"zoomInUp\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"1f15fdb\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p>Watch out our signature product Techie Watchie which has amazing features like monitoring heart rate , google maps ,pedometers and much more.<\\/p>\",\"text_color\":\"#05080A\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Roboto\",\"typography_font_size\":{\"unit\":\"px\",\"size\":15,\"sizes\":[]},\"typography_font_weight\":\"400\",\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"rollIn\"},\"elements\":[],\"widgetType\":\"text-editor\"},{\"id\":\"2f7c148\",\"elType\":\"widget\",\"settings\":{\"text\":\"Know More\",\"align\":\"center\",\"button_text_color\":\"#DFEAED\",\"background_color\":\"#101D2D\",\"_padding\":{\"unit\":\"px\",\"top\":\"5\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"fadeInLeft\",\"link\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/product\\/smart-watch\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"}},\"elements\":[],\"widgetType\":\"button\"}],\"isInner\":false},{\"id\":\"65bc0ea\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null,\"background_background\":\"classic\",\"background_color\":\"#DFEFF2\",\"animation\":\"slideInRight\",\"padding_mobile\":{\"unit\":\"px\",\"top\":\"19\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"animation_mobile\":\"rotateInUpLeft\"},\"elements\":[{\"id\":\"a90491c\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/smart-speaker.jpg\",\"id\":161},\"width\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"space\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"height\":{\"unit\":\"px\",\"size\":244,\"sizes\":[]},\"_padding\":{\"unit\":\"px\",\"top\":\"-5\",\"right\":\"0\",\"bottom\":\"-7\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"fadeInRight\"},\"elements\":[],\"widgetType\":\"image\"},{\"id\":\"8640fc9\",\"elType\":\"widget\",\"settings\":{\"title\":\"SMART SPEAKER\",\"align\":\"center\",\"_padding\":{\"unit\":\"px\",\"top\":\"0\",\"right\":\"4\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"slideInRight\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"3913ba2\",\"elType\":\"widget\",\"settings\":{\"_animation\":\"zoomInRight\",\"text_color\":\"#020202\",\"editor\":\"<p>Get hands-free help around the house from your Assistant on speakers with the Google Assistant built in. Just start with \\u201cOk Google\\u201d. Get answers on sports, weather, finance, calculations, translations\\u00a0and more..<\\/p>\"},\"elements\":[],\"widgetType\":\"text-editor\"},{\"id\":\"f9652c8\",\"elType\":\"widget\",\"settings\":{\"text\":\"Know More\",\"align\":\"center\",\"background_color\":\"#142931\",\"_padding\":{\"unit\":\"px\",\"top\":\"23\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"_animation\":\"slideInUp\",\"link\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/product\\/smart-speaker\\/\",\"is_external\":\"\",\"nofollow\":\"\",\"custom_attributes\":\"\"}},\"elements\":[],\"widgetType\":\"button\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"a07f272\",\"elType\":\"section\",\"settings\":{\"content_width\":{\"unit\":\"px\",\"size\":1035,\"sizes\":[]},\"background_background\":\"classic\",\"background_color\":\"#141C32\",\"padding\":{\"unit\":\"px\",\"top\":\"22\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"layout\":\"full_width\",\"padding_mobile\":{\"unit\":\"px\",\"top\":\"14\",\"right\":\"0\",\"bottom\":\"8\",\"left\":\"0\",\"isLinked\":false}},\"elements\":[{\"id\":\"625c3a2\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[{\"id\":\"61fc2f4\",\"elType\":\"widget\",\"settings\":{\"title\":\"BUSINESS COLLABORATIONS\",\"align\":\"center\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Roboto\",\"typography_font_size\":{\"unit\":\"px\",\"size\":29,\"sizes\":[]},\"typography_font_weight\":\"600\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"7a4e601\",\"elType\":\"widget\",\"settings\":{\"carousel\":[{\"id\":172,\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/Oracle-Logo.png\"},{\"id\":173,\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/IBM_logo_in.jpg\"},{\"id\":174,\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/Siemens-Logo.png\"},{\"id\":179,\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/HP-logo-1.png\"},{\"id\":181,\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/download-1.jpg\"},{\"id\":182,\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/ps-citibank-01.jpg\"}],\"thumbnail_size\":\"full\",\"_padding\":{\"unit\":\"px\",\"top\":\"13\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"slides_to_show\":\"3\",\"slides_to_scroll\":\"3\",\"image_stretch\":\"yes\",\"arrows_size\":{\"unit\":\"px\",\"size\":23,\"sizes\":[]},\"dots_size\":{\"unit\":\"px\",\"size\":5,\"sizes\":[]},\"image_spacing\":\"custom\",\"image_spacing_custom\":{\"unit\":\"px\",\"size\":72,\"sizes\":[]},\"image_border_border\":\"solid\",\"_animation\":\"fadeInRight\"},\"elements\":[],\"widgetType\":\"image-carousel\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"30f77b9\",\"elType\":\"section\",\"settings\":[],\"elements\":[{\"id\":\"6a7d024\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[],\"isInner\":false}],\"isInner\":false}]"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_yoast_wpseo_title"
+              },
+              "meta_value": {
+                "__cdata": "Smart Technologies | Smart products with IoT technologies"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_yoast_wpseo_metadesc"
+              },
+              "meta_value": {
+                "__cdata": "To become smarter and make your life easier purchase some smart products like smart watches , fitness bands , speakers and much more at a cheaper rate and best quality"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_yoast_wpseo_content_score"
+              },
+              "meta_value": {
+                "__cdata": "90"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_yoast_wpseo_estimated-reading-time-minutes"
+              },
+              "meta_value": {
+                "__cdata": "3"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_edit_mode"
+              },
+              "meta_value": {
+                "__cdata": "builder"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_controls_usage"
+              },
+              "meta_value": {
+                "__cdata": "a:7:{s:7:\"heading\";a:3:{s:5:\"count\";i:11;s:15:\"control_percent\";i:3;s:8:\"controls\";a:3:{s:7:\"content\";a:1:{s:13:\"section_title\";a:3:{s:5:\"title\";i:11;s:4:\"size\";i:4;s:5:\"align\";i:9;}}s:5:\"style\";a:1:{s:19:\"section_title_style\";a:10:{s:11:\"title_color\";i:6;s:21:\"typography_typography\";i:5;s:22:\"typography_font_family\";i:5;s:20:\"typography_font_size\";i:5;s:22:\"typography_font_weight\";i:5;s:21:\"typography_font_style\";i:2;s:22:\"typography_line_height\";i:2;s:25:\"typography_letter_spacing\";i:4;s:10:\"blend_mode\";i:2;s:27:\"typography_font_size_mobile\";i:2;}}s:8:\"advanced\";a:3:{s:14:\"_section_style\";a:1:{s:8:\"_padding\";i:10;}s:15:\"section_effects\";a:3:{s:10:\"_animation\";i:8;s:16:\"_animation_delay\";i:2;s:17:\"_animation_mobile\";i:1;}s:17:\"_section_position\";a:7:{s:14:\"_element_width\";i:2;s:21:\"_element_custom_width\";i:2;s:9:\"_position\";i:2;s:9:\"_offset_x\";i:2;s:9:\"_offset_y\";i:2;s:16:\"_offset_x_mobile\";i:1;s:16:\"_offset_y_mobile\";i:1;}}}}s:6:\"column\";a:3:{s:5:\"count\";i:14;s:15:\"control_percent\";i:0;s:8:\"controls\";a:3:{s:6:\"layout\";a:1:{s:6:\"layout\";a:3:{s:12:\"_inline_size\";i:14;s:19:\"_inline_size_mobile\";i:1;s:16:\"content_position\";i:2;}}s:8:\"advanced\";a:2:{s:15:\"section_effects\";a:3:{s:9:\"animation\";i:8;s:15:\"animation_delay\";i:2;s:16:\"animation_mobile\";i:2;}s:16:\"section_advanced\";a:2:{s:7:\"padding\";i:4;s:14:\"padding_mobile\";i:1;}}s:5:\"style\";a:1:{s:13:\"section_style\";a:2:{s:21:\"background_background\";i:8;s:16:\"background_color\";i:6;}}}}s:7:\"section\";a:3:{s:5:\"count\";i:8;s:15:\"control_percent\";i:0;s:8:\"controls\";a:3:{s:6:\"layout\";a:2:{s:14:\"section_layout\";a:3:{s:6:\"height\";i:2;s:13:\"content_width\";i:4;s:6:\"layout\";i:1;}s:17:\"section_structure\";a:1:{s:9:\"structure\";i:4;}}s:5:\"style\";a:1:{s:18:\"section_background\";a:4:{s:21:\"background_background\";i:7;s:16:\"background_image\";i:2;s:15:\"background_size\";i:2;s:16:\"background_color\";i:5;}}s:8:\"advanced\";a:3:{s:16:\"section_advanced\";a:2:{s:7:\"padding\";i:7;s:14:\"padding_mobile\";i:2;}s:15:\"section_effects\";a:4:{s:9:\"animation\";i:4;s:15:\"animation_delay\";i:2;s:16:\"animation_mobile\";i:2;s:18:\"animation_duration\";i:2;}s:19:\"_section_responsive\";a:3:{s:11:\"hide_mobile\";i:3;s:12:\"hide_desktop\";i:3;s:11:\"hide_tablet\";i:3;}}}}s:5:\"image\";a:3:{s:5:\"count\";i:8;s:15:\"control_percent\";i:2;s:8:\"controls\";a:3:{s:7:\"content\";a:1:{s:13:\"section_image\";a:1:{s:5:\"image\";i:8;}}s:8:\"advanced\";a:2:{s:15:\"section_effects\";a:2:{s:10:\"_animation\";i:4;s:17:\"_animation_mobile\";i:1;}s:14:\"_section_style\";a:2:{s:8:\"_padding\";i:4;s:15:\"_padding_mobile\";i:1;}}s:5:\"style\";a:1:{s:19:\"section_style_image\";a:3:{s:5:\"width\";i:4;s:5:\"space\";i:4;s:6:\"height\";i:4;}}}}s:11:\"text-editor\";a:3:{s:5:\"count\";i:8;s:15:\"control_percent\";i:1;s:8:\"controls\";a:3:{s:7:\"content\";a:1:{s:14:\"section_editor\";a:1:{s:6:\"editor\";i:8;}}s:5:\"style\";a:1:{s:13:\"section_style\";a:8:{s:10:\"text_color\";i:8;s:21:\"typography_typography\";i:6;s:22:\"typography_font_family\";i:6;s:20:\"typography_font_size\";i:6;s:22:\"typography_font_weight\";i:6;s:27:\"typography_font_size_mobile\";i:1;s:5:\"align\";i:2;s:22:\"typography_line_height\";i:2;}}s:8:\"advanced\";a:2:{s:15:\"section_effects\";a:2:{s:17:\"_animation_mobile\";i:1;s:10:\"_animation\";i:6;}s:14:\"_section_style\";a:1:{s:8:\"_padding\";i:3;}}}}s:6:\"button\";a:3:{s:5:\"count\";i:6;s:15:\"control_percent\";i:2;s:8:\"controls\";a:3:{s:7:\"content\";a:1:{s:14:\"section_button\";a:3:{s:4:\"text\";i:6;s:5:\"align\";i:6;s:4:\"link\";i:6;}}s:5:\"style\";a:1:{s:13:\"section_style\";a:2:{s:16:\"background_color\";i:6;s:17:\"button_text_color\";i:2;}}s:8:\"advanced\";a:2:{s:14:\"_section_style\";a:1:{s:8:\"_padding\";i:6;}s:15:\"section_effects\";a:3:{s:10:\"_animation\";i:6;s:16:\"_animation_delay\";i:2;s:17:\"_animation_mobile\";i:1;}}}}s:14:\"image-carousel\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:4;s:8:\"controls\";a:3:{s:7:\"content\";a:1:{s:22:\"section_image_carousel\";a:5:{s:8:\"carousel\";i:1;s:14:\"thumbnail_size\";i:1;s:14:\"slides_to_show\";i:1;s:16:\"slides_to_scroll\";i:1;s:13:\"image_stretch\";i:1;}}s:8:\"advanced\";a:2:{s:14:\"_section_style\";a:1:{s:8:\"_padding\";i:1;}s:15:\"section_effects\";a:1:{s:10:\"_animation\";i:1;}}s:5:\"style\";a:2:{s:24:\"section_style_navigation\";a:2:{s:11:\"arrows_size\";i:1;s:9:\"dots_size\";i:1;}s:19:\"section_style_image\";a:3:{s:13:\"image_spacing\";i:1;s:20:\"image_spacing_custom\";i:1;s:19:\"image_border_border\";i:1;}}}}}"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "__cdata": "About Us"
+          },
+          "link": "http://localhost/wordpress/about-us/",
+          "pubDate": "Sun, 11 Jul 2021 17:41:53 +0000",
+          "creator": {
+            "__cdata": "user"
+          },
+          "guid": "http://localhost/wordpress/?page_id=189",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": "<h2>History</h2>\t\t\n\t\t<p>Our team consists of five members. We are  Electronics and Communication Engineers specialized in Internet of Things Domain . After college we all started working in different companies which weren't related to engineering. Basically From our college days we were very much interested in mini projects. Later this became the root for developing Smart Technologies. We planned to work together and invented and developed smart electronic gadgets based on the latest IoT technologies . the company started with only fivve of us and now over  employees work in our company and there are two branches across India.  The main branch is in Bangalore and the sub branch is in Chennai.</p>\t\t\n\t\t\t<h2>OUR VISION</h2>\t\t\n\t\t<p>Smart Technologies is one of the prominent IoT companies. It differentiates you from competitors in the market and provides better engagement with customers, partners and employees.</p><p>We clearly understand that all customer landscapes are not of same kind. That’s why Smart Technologies sourcing methodology encompasses a clear solution especially crafted to address the issues of the common people in a smart and efficient way. We offer a phased approach towards your business drivers and help IT organizations to align their goals towards the overall vision of the business</p><p>Our main aim is to develop in a constant manner and become a leading performer in this competitive global marketplace. Fortunately, we have been able to gather a crew of professionals that can shape and mold their collective experiences, all of them posses outstanding talent that can help to accelerate your organization.</p>\t\t\n\t\t\t<h2>OUR MISSION</h2>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"300\" height=\"168\" src=\"http://localhost/wordpress/wp-content/uploads/2021/07/download-2.jpg\" alt=\"\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Enabling Perfection</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t<p>Our specialists make sure that they produce customized and verified products as per needs and requirements of the customers at par excellence.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"768\" height=\"672\" src=\"http://localhost/wordpress/wp-content/uploads/2021/07/proprieta-36280408-1-768x672.jpg\" alt=\"\" loading=\"lazy\" srcset=\"http://localhost/wordpress/wp-content/uploads/2021/07/proprieta-36280408-1-768x672.jpg 768w, http://localhost/wordpress/wp-content/uploads/2021/07/proprieta-36280408-1-300x263.jpg 300w, http://localhost/wordpress/wp-content/uploads/2021/07/proprieta-36280408-1.jpg 800w\" sizes=\"(max-width: 768px) 100vw, 768px\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>High Sense of Ownership</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t<p>We believe in inculcating an ownership quotient in every employee’s mind to have participative approach. The employees feel like a part of the success roadmap.</p>\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t<figure>\n\t\t\t\t\t\t\t\t\t\t<img width=\"284\" height=\"177\" src=\"http://localhost/wordpress/wp-content/uploads/2021/07/download-3.jpg\" alt=\"\" loading=\"lazy\" />\t\t\t\t\t\t\t\t\t\t\t<figcaption>Focused Leadership</figcaption>\n\t\t\t\t\t\t\t\t\t\t</figure>\n\t\t<p>We strongly focus on effective results. Therefore, we combine deep functional knowledge, global benchmarks and holistic individuals to produce efficient outcomes.</p>"
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 189,
+          "post_date": {
+            "__cdata": "2021-07-11 17:41:53"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-07-11 17:41:53"
+          },
+          "post_modified": {
+            "__cdata": "2021-07-13 16:53:03"
+          },
+          "post_modified_gmt": {
+            "__cdata": "2021-07-13 16:53:03"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "about-us"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "page"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_wp_page_template"
+              },
+              "meta_value": {
+                "__cdata": "elementor_canvas"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_edit_last"
+              },
+              "meta_value": {
+                "__cdata": "1"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-sidebar-layout"
+              },
+              "meta_value": {
+                "__cdata": "no-sidebar"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-content-layout"
+              },
+              "meta_value": {
+                "__cdata": "page-builder"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "theme-transparent-header-meta"
+              },
+              "meta_value": {
+                "__cdata": "default"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_edit_mode"
+              },
+              "meta_value": {
+                "__cdata": "builder"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_template_type"
+              },
+              "meta_value": {
+                "__cdata": "wp-page"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_version"
+              },
+              "meta_value": {
+                "__cdata": "3.2.5"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_astra_content_layout_flag"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-post-title"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ast-title-bar-display"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ast-featured-img"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_data"
+              },
+              "meta_value": {
+                "__cdata": "[{\"id\":\"bc18d60\",\"elType\":\"section\",\"settings\":{\"content_width\":{\"unit\":\"px\",\"size\":898,\"sizes\":[]},\"padding\":{\"unit\":\"px\",\"top\":\"25\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"background_background\":\"classic\",\"background_color\":\"#DFEFF2\",\"animation\":\"zoomIn\",\"animation_duration\":\"slow\",\"animation_delay\":200},\"elements\":[{\"id\":\"fe4efb1\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[{\"id\":\"dfa9873\",\"elType\":\"widget\",\"settings\":{\"title\":\"History\",\"align\":\"center\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"5ea204f\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p>Our team consists of five members. We are\\u00a0 Electronics and Communication Engineers specialized in Internet of Things Domain . After college we all started working in different companies which weren't related to engineering. Basically From our college days we were very much interested in mini projects. Later this became the root for developing Smart Technologies. We planned to work together and invented and developed smart electronic gadgets based on the latest IoT technologies . the company started with only fivve of us and now over\\u00a0 employees work in our company and there are two branches across India.\\u00a0 The main branch is in Bangalore and the sub branch is in Chennai.<\\/p>\",\"text_color\":\"#160909\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Roboto\",\"typography_font_size\":{\"unit\":\"px\",\"size\":15,\"sizes\":[]},\"typography_font_weight\":\"400\"},\"elements\":[],\"widgetType\":\"text-editor\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"c616a6b\",\"elType\":\"section\",\"settings\":{\"gap\":\"narrow\",\"background_background\":\"classic\",\"background_color\":\"#DFEFF2\",\"animation\":\"slideInLeft\",\"animation_duration\":\"slow\",\"animation_delay\":200},\"elements\":[{\"id\":\"8d6d347\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[{\"id\":\"355358f\",\"elType\":\"widget\",\"settings\":{\"title\":\"OUR VISION\",\"align\":\"center\"},\"elements\":[],\"widgetType\":\"heading\"},{\"id\":\"b93bdc0\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p class=\\\"pn-light\\\">Smart Technologies is one of the prominent IoT companies. It differentiates you from competitors in the market and provides better engagement with customers, partners and employees.<\\/p><p class=\\\"pn-light\\\">We clearly understand that all customer landscapes are not of same kind. That\\u2019s why Smart Technologies sourcing methodology encompasses a clear solution especially crafted to address the issues of the common people in a smart and efficient way. We offer a phased approach towards your business drivers and help IT organizations to align their goals towards the overall vision of the business<\\/p><p class=\\\"pn-light\\\">Our main aim is to develop in a constant manner and become a leading performer in this competitive global marketplace. Fortunately, we have been able to gather a crew of professionals that can shape and mold their collective experiences, all of them posses outstanding talent that can help to accelerate your organization.<\\/p>\",\"align\":\"center\",\"text_color\":\"#0B0505\"},\"elements\":[],\"widgetType\":\"text-editor\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"2ac5034\",\"elType\":\"section\",\"settings\":{\"background_background\":\"classic\",\"background_color\":\"#DFEFF2\",\"animation\":\"fadeInRight\"},\"elements\":[{\"id\":\"315bf54\",\"elType\":\"column\",\"settings\":{\"_column_size\":100,\"_inline_size\":null},\"elements\":[{\"id\":\"e67b95f\",\"elType\":\"widget\",\"settings\":{\"title\":\"OUR MISSION\",\"align\":\"center\"},\"elements\":[],\"widgetType\":\"heading\"}],\"isInner\":false}],\"isInner\":false},{\"id\":\"0dbb720\",\"elType\":\"section\",\"settings\":{\"structure\":\"30\",\"background_background\":\"classic\",\"background_color\":\"#DFEFF2\"},\"elements\":[{\"id\":\"6abb735\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null},\"elements\":[{\"id\":\"9037852\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/download-2.jpg\",\"id\":200},\"caption_source\":\"custom\",\"caption\":\"Enabling Perfection\",\"width\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"space\":{\"unit\":\"%\",\"size\":100,\"sizes\":[]},\"height\":{\"unit\":\"px\",\"size\":236,\"sizes\":[]},\"caption_align\":\"center\",\"text_color\":\"#070404\",\"caption_typography_typography\":\"custom\",\"caption_typography_font_family\":\"Roboto\",\"caption_typography_font_size\":{\"unit\":\"px\",\"size\":20,\"sizes\":[]},\"caption_typography_font_weight\":\"400\",\"caption_typography_line_height\":{\"unit\":\"em\",\"size\":1,\"sizes\":[]},\"caption_typography_letter_spacing\":{\"unit\":\"px\",\"size\":0.6,\"sizes\":[]},\"_animation\":\"bounceIn\"},\"elements\":[],\"widgetType\":\"image\"},{\"id\":\"2979578\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p>Our specialists make sure that they produce customized and verified products as per needs and requirements of the customers at par excellence.<\\/p>\",\"_padding\":{\"unit\":\"px\",\"top\":\"10\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"text_color\":\"#110808\",\"_animation\":\"rotateIn\"},\"elements\":[],\"widgetType\":\"text-editor\"}],\"isInner\":false},{\"id\":\"beb059b\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null},\"elements\":[{\"id\":\"4d0333f\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/proprieta-36280408-1.jpg\",\"id\":199},\"image_size\":\"medium_large\",\"caption_source\":\"custom\",\"caption\":\"High Sense of Ownership\",\"height\":{\"unit\":\"px\",\"size\":227,\"sizes\":[]},\"text_color\":\"#070404\",\"caption_typography_typography\":\"custom\",\"caption_typography_font_family\":\"Roboto\",\"caption_typography_font_size\":{\"unit\":\"px\",\"size\":20,\"sizes\":[]},\"caption_typography_font_weight\":\"400\",\"_animation\":\"bounceIn\"},\"elements\":[],\"widgetType\":\"image\"},{\"id\":\"811d561\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p>We believe in inculcating an ownership quotient in every employee\\u2019s mind to have participative approach. The employees feel like a part of the success roadmap.<\\/p>\",\"_padding\":{\"unit\":\"px\",\"top\":\"-4\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"0\",\"isLinked\":false},\"text_color\":\"#1A0C0C\",\"_animation\":\"rotateIn\"},\"elements\":[],\"widgetType\":\"text-editor\"}],\"isInner\":false},{\"id\":\"2afaf5f\",\"elType\":\"column\",\"settings\":{\"_column_size\":33,\"_inline_size\":null},\"elements\":[{\"id\":\"864a9cd\",\"elType\":\"widget\",\"settings\":{\"image\":{\"url\":\"http:\\/\\/localhost\\/wordpress\\/wp-content\\/uploads\\/2021\\/07\\/download-3.jpg\",\"id\":201},\"caption_source\":\"custom\",\"caption\":\"Focused Leadership\",\"height\":{\"unit\":\"px\",\"size\":227,\"sizes\":[]},\"text_color\":\"#070404\",\"caption_typography_typography\":\"custom\",\"caption_typography_font_family\":\"Roboto\",\"caption_typography_font_size\":{\"unit\":\"px\",\"size\":20,\"sizes\":[]},\"caption_typography_font_weight\":\"400\",\"_animation\":\"bounceIn\"},\"elements\":[],\"widgetType\":\"image\"},{\"id\":\"2c28acd\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p>We strongly focus on effective results. Therefore, we combine deep functional knowledge, global benchmarks and holistic individuals to produce efficient outcomes.<\\/p>\",\"text_color\":\"#110F0F\",\"_animation\":\"rotateIn\"},\"elements\":[],\"widgetType\":\"text-editor\"}],\"isInner\":false}],\"isInner\":false}]"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_controls_usage"
+              },
+              "meta_value": {
+                "__cdata": "a:5:{s:7:\"heading\";a:3:{s:5:\"count\";i:3;s:15:\"control_percent\";i:1;s:8:\"controls\";a:1:{s:7:\"content\";a:1:{s:13:\"section_title\";a:2:{s:5:\"title\";i:3;s:5:\"align\";i:3;}}}}s:11:\"text-editor\";a:3:{s:5:\"count\";i:5;s:15:\"control_percent\";i:1;s:8:\"controls\";a:3:{s:7:\"content\";a:1:{s:14:\"section_editor\";a:1:{s:6:\"editor\";i:5;}}s:5:\"style\";a:1:{s:13:\"section_style\";a:6:{s:10:\"text_color\";i:5;s:21:\"typography_typography\";i:1;s:22:\"typography_font_family\";i:1;s:20:\"typography_font_size\";i:1;s:22:\"typography_font_weight\";i:1;s:5:\"align\";i:1;}}s:8:\"advanced\";a:2:{s:14:\"_section_style\";a:1:{s:8:\"_padding\";i:2;}s:15:\"section_effects\";a:1:{s:10:\"_animation\";i:3;}}}}s:6:\"column\";a:3:{s:5:\"count\";i:6;s:15:\"control_percent\";i:0;s:8:\"controls\";a:1:{s:6:\"layout\";a:1:{s:6:\"layout\";a:1:{s:12:\"_inline_size\";i:6;}}}}s:7:\"section\";a:3:{s:5:\"count\";i:4;s:15:\"control_percent\";i:1;s:8:\"controls\";a:3:{s:6:\"layout\";a:2:{s:14:\"section_layout\";a:2:{s:13:\"content_width\";i:1;s:3:\"gap\";i:1;}s:17:\"section_structure\";a:1:{s:9:\"structure\";i:1;}}s:8:\"advanced\";a:2:{s:16:\"section_advanced\";a:1:{s:7:\"padding\";i:1;}s:15:\"section_effects\";a:3:{s:9:\"animation\";i:3;s:18:\"animation_duration\";i:2;s:15:\"animation_delay\";i:2;}}s:5:\"style\";a:1:{s:18:\"section_background\";a:2:{s:21:\"background_background\";i:4;s:16:\"background_color\";i:4;}}}}s:5:\"image\";a:3:{s:5:\"count\";i:3;s:15:\"control_percent\";i:3;s:8:\"controls\";a:3:{s:7:\"content\";a:1:{s:13:\"section_image\";a:4:{s:5:\"image\";i:3;s:14:\"caption_source\";i:3;s:7:\"caption\";i:3;s:10:\"image_size\";i:1;}}s:5:\"style\";a:2:{s:19:\"section_style_image\";a:3:{s:5:\"width\";i:1;s:5:\"space\";i:1;s:6:\"height\";i:3;}s:21:\"section_style_caption\";a:8:{s:13:\"caption_align\";i:1;s:10:\"text_color\";i:3;s:29:\"caption_typography_typography\";i:3;s:30:\"caption_typography_font_family\";i:3;s:28:\"caption_typography_font_size\";i:3;s:30:\"caption_typography_font_weight\";i:3;s:30:\"caption_typography_line_height\";i:1;s:33:\"caption_typography_letter_spacing\";i:1;}}s:8:\"advanced\";a:1:{s:15:\"section_effects\";a:1:{s:10:\"_animation\";i:3;}}}}}"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "__cdata": "Contact"
+          },
+          "link": "http://localhost/wordpress/contact-2/",
+          "pubDate": "Mon, 12 Jul 2021 16:31:32 +0000",
+          "creator": {
+            "__cdata": "user"
+          },
+          "guid": "http://localhost/wordpress/?page_id=206",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": "Address: RV Nagar, Anna Nagar, Chennai-600227&nbsp;\n\nEmail: ravivignesh292@gmail.com\n\nPhone: 9791298989\n\n[wpforms id=\"205\" title=\"false\" description=\"false\"]"
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 206,
+          "post_date": {
+            "__cdata": "2021-07-12 16:31:32"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-07-12 16:31:32"
+          },
+          "post_modified": {
+            "__cdata": "2021-07-12 16:57:50"
+          },
+          "post_modified_gmt": {
+            "__cdata": "2021-07-12 16:57:50"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "contact-2"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "page"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_wp_page_template"
+              },
+              "meta_value": {
+                "__cdata": "elementor_canvas"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_edit_last"
+              },
+              "meta_value": {
+                "__cdata": "1"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-sidebar-layout"
+              },
+              "meta_value": {
+                "__cdata": "no-sidebar"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-content-layout"
+              },
+              "meta_value": {
+                "__cdata": "page-builder"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "theme-transparent-header-meta"
+              },
+              "meta_value": {
+                "__cdata": "default"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_edit_mode"
+              },
+              "meta_value": {
+                "__cdata": "builder"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_template_type"
+              },
+              "meta_value": {
+                "__cdata": "wp-page"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_version"
+              },
+              "meta_value": {
+                "__cdata": "3.2.5"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_astra_content_layout_flag"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-post-title"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ast-title-bar-display"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ast-featured-img"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_data"
+              },
+              "meta_value": {
+                "__cdata": "[{\"id\":\"a834df2\",\"elType\":\"section\",\"settings\":{\"structure\":\"20\",\"background_background\":\"classic\",\"background_color\":\"#ECF1F2\"},\"elements\":[{\"id\":\"c7d6b57\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":45,\"padding\":{\"unit\":\"px\",\"top\":\"27\",\"right\":\"0\",\"bottom\":\"0\",\"left\":\"12\",\"isLinked\":false}},\"elements\":[{\"id\":\"2b1aa5f\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p>Address: RV Nagar, Anna Nagar, Chennai-600227\\u00a0<\\/p>\",\"text_color\":\"#1A0808\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Roboto\",\"typography_font_size\":{\"unit\":\"px\",\"size\":20,\"sizes\":[]},\"typography_font_weight\":\"400\"},\"elements\":[],\"widgetType\":\"text-editor\"},{\"id\":\"37b4ea1\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p>Email: ravivignesh292@gmail.com<\\/p>\",\"text_color\":\"#0D0404\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Roboto\",\"typography_font_size\":{\"unit\":\"px\",\"size\":20,\"sizes\":[]},\"typography_font_weight\":\"400\"},\"elements\":[],\"widgetType\":\"text-editor\"},{\"id\":\"a67e9b7\",\"elType\":\"widget\",\"settings\":{\"editor\":\"<p>Phone: 9791298989<\\/p>\",\"text_color\":\"#0E0606\",\"typography_typography\":\"custom\",\"typography_font_family\":\"Roboto\",\"typography_font_size\":{\"unit\":\"px\",\"size\":20,\"sizes\":[]},\"typography_font_weight\":\"400\"},\"elements\":[],\"widgetType\":\"text-editor\"}],\"isInner\":false},{\"id\":\"114528f\",\"elType\":\"column\",\"settings\":{\"_column_size\":50,\"_inline_size\":55,\"padding\":{\"unit\":\"px\",\"top\":\"11\",\"right\":\"5\",\"bottom\":\"0\",\"left\":\"16\",\"isLinked\":false}},\"elements\":[{\"id\":\"d0b51b8\",\"elType\":\"widget\",\"settings\":{\"form_id\":\"205\"},\"elements\":[],\"widgetType\":\"wpforms\"}],\"isInner\":false}],\"isInner\":false}]"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_controls_usage"
+              },
+              "meta_value": {
+                "__cdata": "a:4:{s:11:\"text-editor\";a:3:{s:5:\"count\";i:3;s:15:\"control_percent\";i:2;s:8:\"controls\";a:2:{s:7:\"content\";a:1:{s:14:\"section_editor\";a:1:{s:6:\"editor\";i:3;}}s:5:\"style\";a:1:{s:13:\"section_style\";a:5:{s:10:\"text_color\";i:3;s:21:\"typography_typography\";i:3;s:22:\"typography_font_family\";i:3;s:20:\"typography_font_size\";i:3;s:22:\"typography_font_weight\";i:3;}}}}s:6:\"column\";a:3:{s:5:\"count\";i:2;s:15:\"control_percent\";i:1;s:8:\"controls\";a:2:{s:6:\"layout\";a:1:{s:6:\"layout\";a:1:{s:12:\"_inline_size\";i:2;}}s:8:\"advanced\";a:1:{s:16:\"section_advanced\";a:1:{s:7:\"padding\";i:2;}}}}s:7:\"wpforms\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:0;s:8:\"controls\";a:1:{s:7:\"content\";a:1:{s:12:\"section_form\";a:1:{s:7:\"form_id\";i:1;}}}}s:7:\"section\";a:3:{s:5:\"count\";i:1;s:15:\"control_percent\";i:1;s:8:\"controls\";a:2:{s:6:\"layout\";a:1:{s:17:\"section_structure\";a:1:{s:9:\"structure\";i:1;}}s:5:\"style\";a:1:{s:18:\"section_background\";a:2:{s:21:\"background_background\";i:1;s:16:\"background_color\";i:1;}}}}}"
+              }
+            }
+          ]
+        },
+        {
+          "title": {
+            "__cdata": "Shop"
+          },
+          "link": "http://localhost/wordpress/shop/",
+          "pubDate": "Wed, 14 Jul 2021 10:23:20 +0000",
+          "creator": {
+            "__cdata": "user"
+          },
+          "guid": "http://localhost/wordpress/shop/",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": ""
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 240,
+          "post_date": {
+            "__cdata": "2021-07-14 10:23:20"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-07-14 10:23:20"
+          },
+          "post_modified": {
+            "__cdata": "2021-07-14 10:23:20"
+          },
+          "post_modified_gmt": {
+            "__cdata": "2021-07-14 10:23:20"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "shop"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "page"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0
+        },
+        {
+          "title": {
+            "__cdata": "Cart"
+          },
+          "link": "http://localhost/wordpress/cart/",
+          "pubDate": "Wed, 14 Jul 2021 10:23:21 +0000",
+          "creator": {
+            "__cdata": "user"
+          },
+          "guid": "http://localhost/wordpress/cart/",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": "<!-- wp:shortcode -->[woocommerce_cart]<!-- /wp:shortcode -->"
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 241,
+          "post_date": {
+            "__cdata": "2021-07-14 10:23:21"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-07-14 10:23:21"
+          },
+          "post_modified": {
+            "__cdata": "2021-07-14 10:23:21"
+          },
+          "post_modified_gmt": {
+            "__cdata": "2021-07-14 10:23:21"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "cart"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "page"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0
+        },
+        {
+          "title": {
+            "__cdata": "Checkout"
+          },
+          "link": "http://localhost/wordpress/checkout/",
+          "pubDate": "Wed, 14 Jul 2021 10:23:21 +0000",
+          "creator": {
+            "__cdata": "user"
+          },
+          "guid": "http://localhost/wordpress/checkout/",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": "<!-- wp:shortcode -->[woocommerce_checkout]<!-- /wp:shortcode -->"
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 242,
+          "post_date": {
+            "__cdata": "2021-07-14 10:23:21"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-07-14 10:23:21"
+          },
+          "post_modified": {
+            "__cdata": "2021-07-14 10:23:21"
+          },
+          "post_modified_gmt": {
+            "__cdata": "2021-07-14 10:23:21"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "checkout"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "page"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0
+        },
+        {
+          "title": {
+            "__cdata": "My account"
+          },
+          "link": "http://localhost/wordpress/my-account/",
+          "pubDate": "Wed, 14 Jul 2021 10:23:21 +0000",
+          "creator": {
+            "__cdata": "user"
+          },
+          "guid": "http://localhost/wordpress/my-account/",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": "<!-- wp:shortcode -->[woocommerce_my_account]<!-- /wp:shortcode -->"
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 243,
+          "post_date": {
+            "__cdata": "2021-07-14 10:23:21"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-07-14 10:23:21"
+          },
+          "post_modified": {
+            "__cdata": "2021-07-14 10:23:21"
+          },
+          "post_modified_gmt": {
+            "__cdata": "2021-07-14 10:23:21"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "my-account"
+          },
+          "status": {
+            "__cdata": "publish"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "page"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0
+        },
+        {
+          "title": {
+            "__cdata": "Products"
+          },
+          "link": "http://localhost/wordpress/?page_id=251",
+          "pubDate": "Sun, 18 Jul 2021 14:27:36 +0000",
+          "creator": {
+            "__cdata": "user"
+          },
+          "guid": "http://localhost/wordpress/?page_id=251",
+          "description": "",
+          "encoded": [
+            {
+              "__cdata": ""
+            },
+            {
+              "__cdata": ""
+            }
+          ],
+          "post_id": 251,
+          "post_date": {
+            "__cdata": "2021-07-18 14:27:36"
+          },
+          "post_date_gmt": {
+            "__cdata": "2021-07-18 14:27:36"
+          },
+          "post_modified": {
+            "__cdata": "2021-07-29 08:28:01"
+          },
+          "post_modified_gmt": {
+            "__cdata": "2021-07-29 08:28:01"
+          },
+          "comment_status": {
+            "__cdata": "closed"
+          },
+          "ping_status": {
+            "__cdata": "closed"
+          },
+          "post_name": {
+            "__cdata": "services__trashed"
+          },
+          "status": {
+            "__cdata": "trash"
+          },
+          "post_parent": 0,
+          "menu_order": 0,
+          "post_type": {
+            "__cdata": "page"
+          },
+          "post_password": {
+            "__cdata": ""
+          },
+          "is_sticky": 0,
+          "postmeta": [
+            {
+              "meta_key": {
+                "__cdata": "_wp_page_template"
+              },
+              "meta_value": {
+                "__cdata": "elementor_canvas"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_edit_last"
+              },
+              "meta_value": {
+                "__cdata": "1"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-sidebar-layout"
+              },
+              "meta_value": {
+                "__cdata": "no-sidebar"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-content-layout"
+              },
+              "meta_value": {
+                "__cdata": "page-builder"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "theme-transparent-header-meta"
+              },
+              "meta_value": {
+                "__cdata": "default"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_edit_mode"
+              },
+              "meta_value": {
+                "__cdata": "builder"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_template_type"
+              },
+              "meta_value": {
+                "__cdata": "wp-page"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_version"
+              },
+              "meta_value": {
+                "__cdata": "3.2.5"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_astra_content_layout_flag"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "site-post-title"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ast-title-bar-display"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "ast-featured-img"
+              },
+              "meta_value": {
+                "__cdata": "disabled"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_elementor_data"
+              },
+              "meta_value": {
+                "__cdata": "[]"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_trash_meta_status"
+              },
+              "meta_value": {
+                "__cdata": "publish"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_trash_meta_time"
+              },
+              "meta_value": {
+                "__cdata": "1627547281"
+              }
+            },
+            {
+              "meta_key": {
+                "__cdata": "_wp_desired_post_slug"
+              },
+              "meta_value": {
+                "__cdata": "services"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
